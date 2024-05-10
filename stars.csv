@@ -1,0 +1,834 @@
+﻿StarID,Giver,Position,Phone,Taker,OKR term,OKR Objective,Recog type,Recog criteria,Remark,Stars,StarType
+1,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Chủ động thử nghiệm xây dựng hệ thống API gateway, API kêt nối computing power, rà soát các API spec được xây dựng. Tks man...",6,Recognition
+2,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Phối hợp hướng dẫn nhóm test & triển khai PowerBI pipeline, test công cụ kết nối datamart (REST, XMLA, SQL endpoints) cơ bản ổn định (trên máy Windows).",6,Recognition
+3,Lê Ngọc Anh,CTO,Samsung,Bùi Tuấn Anh,,,Khác,"Rất chủ động, nỗ lực (4)","good API man. nỗ lực tìm hiểu test API cho SQL endpoint datamart, cơ bản kết nối thành công trên máy Windows, phục vụ O1 KR1 nền tảng.",4,Recognition
+4,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,,,Khác,"Rất chủ động, nỗ lực (4)","Tổng thư ký cuốn sách, hỗ trợ nhóm PowerBI platform triển khai, vượt qua khó khăn làm remote, học thêm rất nhiều...",4,Recognition
+5,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,,,Khác,"Rất chủ động, nỗ lực (4)","Học nhanh và chủ động hỗ trợ nhóm PowerBI platform và các DA, PMO thử nghiệm hệ thống triển khai. Không ngại tham gia các mảng việc mới :)",4,Recognition
+6,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,,O1,OKRs,"Đóng góp về Công cụ, Đào tạo chia sẻ, Quy trình dữ liệu cho VPI (3)","Nắm bắt nhanh và chủ động các vấn đề mới, document rõ ràng, tham gia làm thêm ebook!!",3,Recognition
+7,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Chủ động tìm hiểu, xây dựng công cụ OKR cho nhóm trên Power Metrics, trong vòng 3 ngày! Amazing",6,Recognition
+8,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,"Rất chủ động, nỗ lực (4)","Phối hợp tìm hiểu, xây dựng công cụ OKR cho nhóm trên Power Metrics, trong vòng 3 ngày! Amazing",4,Recognition
+9,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,,,Khác,Hoàn thành công việc chuyên môn (3),"Phối hợp tìm hiểu, xây dựng công cụ OKR cho nhóm trên Power Metrics, trong vòng 3 ngày! Amazing",3,Recognition
+10,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1/2023,O2,OKR,Hoàn thành công việc chuyên môn (3),Hoàn thiện các dashboard LPG và công cụ xử lý XNK pro-code và Time series (mới),3,Recognition
+11,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,,,Khác,"Rất chủ động, nỗ lực (4)",Tìm hiểu khắc phục và chia sẻ thông tin rõ ràng về sự cố APIM với máy MacStudio,4,Recognition
+12,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1/2023,,Khác,"Rất chủ động, nỗ lực (4)","Nhanh chóng hoàn chỉnh công cụ OKR trên PowerBI Metrics với Objective, song song so sánh với Clickup để đánh giá",4,Recognition
+13,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 1/2023,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chủ động kiên trì theo đuổi và renew được tài khoản Datacamp cho VPI,6,Recognition
+14,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1/2023,O3,OKR,"Rất chủ động, nỗ lực (4)",Đào tạo và hỗ trợ NV Sử trong xây dựng các báo cáo PowerBI report và paginated report cho mảng cổ sinh,4,Recognition
+15,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,,,Khác,Hoàn thành công việc chuyên môn (3),Tham gia hỗ trợ văn nghệ Hội nghị công đoàn,3,Recognition
+16,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,,,Khác,"Đóng góp về Công cụ, Đào tạo chia sẻ, Quy trình dữ liệu cho VPI (3)",Tham gia hỗ trợ văn nghệ Hội nghị công đoàn,3,Recognition
+17,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Nghiên cứu hoàn thiện hơn công cụ Time series (API trên Win, Deepnote, hỗ trợ các DA Hương Hạnh) all for free",6,Recognition
+18,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2/2023,,Khác,"Đóng góp về Công cụ, Đào tạo chia sẻ, Quy trình dữ liệu cho VPI (3)","Hỗ trợ đào tạo NV Sử thực hiện BC cổ sinh prototype ver 0 (trong 2 tuần) chi tiết, có hướng phát triển tiếp",3,Recognition
+19,Lê Ngọc Anh,CTO,Samsung,Nguyễn Văn Sử,,,Khác,Sáng kiến trong công việc (creativity @ work) (6),"Hoàn thành prototype ver 1 của BC cổ sinh: tham vọng, sáng tạo",6,Recognition
+20,Lê Ngọc Anh,CTO,Samsung,Nguyễn Minh Châu,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Hỗ trợ hoàn thiện dashboard dầu thô của tài với các tính năng mới, logic, hệ thống hơn.",6,Recognition
+21,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",CFR cho Sang mình được CFR lại > ghi nhận nỗ lực và kỹ năng đồng cảm của Data Scientist,6,Recognition
+22,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1/2023,O2,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Chủ động đầu mối các mảng việc (long & very short-term) về maps,6,Recognition
+23,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,"Rất chủ động, nỗ lực (4)",Agile trong công việc (phần database + connector trên nền tảng sp dữ liệu),4,Recognition
+24,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 2/2023,O1,OKR,"Rất chủ động, nỗ lực (4)",Chủ động triển khai thử nghiệm Mail Merge với nhóm c Xuân/Trang trong 1 ngày theo đặt hàng,4,Recognition
+25,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,,,Khác,"Rất chủ động, nỗ lực (4)","Bảo vệ đề án (dưới hướng dẫn của nhóm, có reference cụ thể) đạt giải nhất",4,Recognition
+26,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Chia sẻ một số vướng mắc trong công tác chung của Bp ở phía Bắc,6,Recognition
+27,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Chia sẻ một số vướng mắc trong công tác chung của Bp ở phía Bắc,6,Recognition
+28,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Cập nhật chỉnh sửa hệ thống Power Query cho Well log, áp dụng cho các CSDL lớn khác",6,Recognition
+29,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Phối hợp hoàn thiện hệ thống Power Query cho Well log, chuyển giao đào tạo EPC team",6,Recognition
+30,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Triển khai đồng bộ Azure Functions cho hệ thống API (dữ liệu, biến đổi, prediction model)",6,Recognition
+31,Lê Ngọc Anh,CTO,Samsung,Bùi Tuấn Anh,,,Khác,"Rất chủ động, nỗ lực (4)",Nghiên cứu chuyển giao công cụ API cho datamart trên Azure Functions,4,Recognition
+32,Lê Ngọc Anh,CTO,Samsung,Nguyễn Văn Sử,Quý 2/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Sản phẩm số cho mảng cổ sinh (ver 2) rất hoàn chỉnh, gồm PowerBI, download file + Paginated",6,Recognition
+33,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Thử nghiệm và áp dụng thành công chuyển đổi dữ liệu Well log database về Postgres (tool DE),6,Recognition
+34,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 2/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thành BC Paginated report (ver 1) cho bản tin thị trường PVN,6,Recognition
+35,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thành công cụ BC Paginated report để áp dụng cho bản tin thị trường PVN (ver 1),6,Recognition
+36,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Tổng hợp đặt đề bài cho các bài toán lớn đang triển khai (Tinh Vân, Petrolimex)",6,Recognition
+37,Lê Ngọc Anh,CTO,Samsung,Trần Vũ Hải Lân,,,Khác,"Rất chủ động, nỗ lực (4)",Ra trường (có bằng) lol,4,Recognition
+38,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Hoàn chỉnh các quy trình làm việc với Azure Function (data + model, ver 1), document đầy đủ trên Github + Miro",6,Recognition
+39,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 2/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Góp ý cho OKR mảng chuyên môn data science, tư vấn hỗ trợ các nhóm khác để triển khai phần U-FNO (nằm trong PINN)",6,Recognition
+40,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chuyển giao toàn bộ công cụ nền tảng duy trì Well log database cho nhóm EPC,6,Recognition
+41,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chuyển giao toàn bộ công cụ nền tảng duy trì Well log database cho nhóm EPC,6,Recognition
+42,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2/2023,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thiện nội dung bản thảo cuối và phối hợp xuất bản với Nhà xuất bản,6,Recognition
+43,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị API doc ready trên Azure Function để thử nghiệm với I2G,6,Recognition
+44,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp chuẩn bị API doc ready trên Azure Function để thử nghiệm với I2G,6,Recognition
+45,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Hỗ trợ hoàn thiện các sản phẩm phục vụ Triển lãm của Bộ KHCN,6,Recognition
+46,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối chuẩn bị sản phẩm trực triển lãm giới thiệu tại Bộ KHCN,6,Recognition
+47,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị nội dung chính phục vụ BC Hội đồng khoa học về CL & ChatGPT,6,Recognition
+48,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Nỗ lực phối hợp nhóm để xây dựng gấp các API backend cho đối tác I2G (project sổ tay),6,Recognition
+49,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Thử nghiệm hướng dẫn docs về Data Wrangler trên Fabric,6,Recognition
+50,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối phối hợp xây dựng chỉnh sửa backend để kết nối frontend với ICG,6,Recognition
+51,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đào tạo mở rộng về Fabric cho các DA để triển khai nhanh trong Viện ,6,Recognition
+52,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 2,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Theo dõi chia sẻ kiến thức chuẩn về PINNs cho nhóm và các Bộ phận trong Viện,6,Recognition
+53,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Thử nghiệm nhanh và thành công quy trình đưa code từ Notebook lên Lakehouse lên Github để build API với Codespace,6,Recognition
+54,Lê Ngọc Anh,CTO,Samsung,Trần Thị Tuyết Hằng,Quý 1,,Khác,Thiếu nỗ lực (-4),"Chưa trách nhiệm trong phối hợp công việc, không tôn trọng nội quy làm việc tại công sở.",-4,Recognition
+55,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đề xuất quy trình hoàn thiện xây dựng API từ Fabric với Azure Container,6,Recognition
+56,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đề xuất quy trình hoàn thiện xây dựng API từ Fabric với Azure Container,6,Recognition
+57,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 2,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hỗ trợ đào tạo Fabric cho chi bộ nghiệp vụ,6,Recognition
+58,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hỗ trợ đào tạo Fabric cho chi bộ nghiệp vụ,6,Recognition
+59,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Nắm bắt công nghệ nền tảng Fabric, chia sẻ với ctr đào tạo của Đảng bộ Viện",6,Recognition
+60,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Giữ gìn và phát triển văn hóa sạch sẽ vệ sinh chung văn minh công sở,6,Recognition
+61,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Tổng hợp tài liệu quảng bá công cụ bản đồ cho VPI (layer, token access)",6,Recognition
+62,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Tổng hợp tài liệu quảng bá công cụ bản đồ cho VPI (layer, token access)",6,Recognition
+63,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 3,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng tài liệu Nhập liệu với PowerBI App cho người dùng Viện,6,Recognition
+64,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 3,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Đào tạo các mảng visual, powerapp trên Fabric cho nhóm PVPro",6,Recognition
+65,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối deploy công cụ hỏi đáp cơ bản (ver 0) lên Huggingface,6,Recognition
+66,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",(Ốm mà) Deploy công cụ hỏi đáp cơ bản (ver 0) lên Huggingface,6,Recognition
+67,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Debug Teams AI (Claude 2),6,Recognition
+68,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Quy trình làm việc PO PMO trên Fabric,6,Recognition
+69,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Debug xây dựng FAQ ver 1 cho chatbot Teams AI (JS),6,Recognition
+70,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng quy trình API tự động ver 2,6,Recognition
+71,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Nắm bắt nhanh công cụ LLM, cập nhật code query database",6,Recognition
+72,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 3,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Đầu mối đào tạo, hướng dẫn công cụ Fabric cho nhóm BA (chuyển Sp chủ lực từ Datamart sang)",6,Recognition
+73,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Nắm bắt nhanh phần LLM, xây dựng template tra cứu SQL với NLP",6,Recognition
+74,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thiện (hơn) phần code để deploy 1 chatbot với các đầu vào SP và username,6,Recognition
+75,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Tham gia hội diễn văn nghệ VPI nhiệt tình,6,Recognition
+76,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Tham gia hội diễn văn nghệ VPI nhiệt tình,6,Recognition
+77,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Tham gia hội diễn văn nghệ VPI nhiệt tình,6,Recognition
+78,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Thử nghiệm xây dựng VPI Insight với Solara & Leafmap Library,6,Recognition
+79,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Hoàn thiện, đóng gói lưu trữ phần code Teams AI",6,Recognition
+80,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 3,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thiện phần đăng ký bản quyền đầu tiên cho sản phẩm số của Viện,6,Recognition
+81,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thiện kết nối API hỏi đáp database với Power App,6,Recognition
+82,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Đầu mối nghiêm túc rà soát kỹ BC dầu thô, giúp chuẩn bị tốt cho phản biện với Hội đồng KH.",6,Recognition
+83,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Phối hợp nghiêm túc rà soát kỹ BC dầu thô, giúp chuẩn bị tốt cho phản biện với Hội đồng KH.",6,Recognition
+84,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Đầu mối nghiêm túc rà soát BC dầu thô, giúp chuẩn bị tốt cho phản biện với Hội đồng KH.",6,Recognition
+85,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng repo đầu tiên chatbot Q&A FAQ với SK,6,Recognition
+86,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị lượng lớn máy và phần mềm Macbook Air và Mini cho nhóm Hạt nhân (hơn 10 máy),6,Recognition
+87,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị lượng lớn máy và phần mềm Macbook Air và Mini cho nhóm Hạt nhân (hơn 10 máy),6,Recognition
+88,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 3,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối tổ chức chương trình đào tạo Q3 2023 về AI,6,Recognition
+89,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp chuẩn bị tổ chức chương trình đào tạo Q3 2023 về AI,6,Recognition
+90,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp chuẩn bị tổ chức chương trình đào tạo Q3 2023 về AI,6,Recognition
+91,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp chuẩn bị tổ chức chương trình đào tạo Q3 2023 về AI,6,Recognition
+92,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp chuẩn bị tổ chức chương trình đào tạo Q3 2023 về AI,6,Recognition
+93,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp chuẩn bị tổ chức chương trình đào tạo Q3 2023 về AI,6,Recognition
+94,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Rà soát cập nhật các user hệ thống DNA,6,Recognition
+95,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 3,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Tìm hiểu thử nghiệm kết nối webhook Zalo với Azure gửi lại Zalo,6,Recognition
+96,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 3,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Tích cực mở rộng nâng cấp sản phẩm số Khí/LNG chuẩn bị bc Hội thảo (hợp tác quốc tế ICIS :)),6,Recognition
+97,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 3,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Xây dựng dashboard Khí LNG chi tiết, hợp lý, nhiều thông tin và dữ liệu",6,Recognition
+98,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Triển khai nhanh và hiệu quả API dữ liệu số,6,Recognition
+99,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đào tạo hướng dẫn nhóm LLM triển khai core chatbot API trên SK,6,Recognition
+100,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối nỗ lực triển khai chỉnh sửa áp dụng quy trình API cho nhiều sản phẩm,6,Recognition
+101,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Tổng hợp xây dựng CSDL về công tác CDS tại VPI,6,Recognition
+102,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 4,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Tổng hợp xây dựng CSDL về công tác CDS tại VPI,6,Recognition
+103,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị báo cáo định kỳ Q3 gửi PVN về CĐS,6,Recognition
+104,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị báo cáo định kỳ Q3 gửi PVN về CĐS,6,Recognition
+105,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Hoàn thiện hệ thống chuyển đổi nguồn lực nhanh, chính xác (Azure)",6,Recognition
+106,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Phối hợp thực hiện chuyển đổi nguồn lực nhanh, chính xác (Azure) theo quy trình",6,Recognition
+107,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối hướng dẫn hoàn thiện công việc bản đồ PEC,6,Recognition
+108,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối chuẩn bị hoàn thiện sp Dầu thô bc HĐKH (điểm 8.8!),6,Recognition
+109,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Woman who Codes!,6,Recognition
+110,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Woman who Codes!,6,Recognition
+111,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Woman who Codes!,6,Recognition
+112,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Nghiên cứu thử nghiệm chuyển giao BC AutoGen (BA),6,Recognition
+113,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng AutoGen notebook cho BA với 3 tính năng,6,Recognition
+114,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối triển khai ctr Ngày hội hướng nghiệp HUS ,6,Recognition
+115,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp triển khai ctr Ngày hội hướng nghiệp HUS ,6,Recognition
+116,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp triển khai ctr Ngày hội hướng nghiệp HUS ,6,Recognition
+117,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp triển khai ctr Ngày hội hướng nghiệp HUS ,6,Recognition
+118,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp triển khai ctr Ngày hội hướng nghiệp HUS ,6,Recognition
+119,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Phối hợp triển khai ctr Ngày hội hướng nghiệp HUS ,6,Recognition
+120,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối thử nghiệm ứng dụng nhanh PromptFlow cho LLM tools,6,Recognition
+121,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối triển khai đào tạo API (sử dụng),6,Recognition
+122,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng quy trình quản trị nguồn lực Azure ML,6,Recognition
+123,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Triển khai thử nghiệm sâu (Component) Designer trên Azure ML,6,Recognition
+124,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Triển khai thử nghiệm sâu (Flow) PromptFlow trên Azure ML,6,Recognition
+125,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Triển khai thử nghiệm sâu (Data connetions) trên Azure ML,6,Recognition
+126,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Thử nghiệm chu trình kết nối dữ liệu, biễu diễn xuyên nền tảng (Power Apps, PowerBI, Fabric)",6,Recognition
+127,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng hệ thống công cụ AI hỗ trợ sử dụng các nền tảng số (GPTs),6,Recognition
+128,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O4,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Triển khai xây dựng cơ sở dữ liệu và hỏi đáp NLP với graph database (neo4j),6,Recognition
+129,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Tổ chức các công việc + đào tạo về map tools cho các Bp (Đức DNA, CPSE...)",6,Recognition
+130,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Đóng góp tích cực cho cộng đồng Microsoft (Power users!),6,Recognition
+131,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Kiên trì duy trì cập nhật sản phẩm số cho hội thảo LNG (lần 4),6,Recognition
+132,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thiện các sản phẩm số để quyết toán Q4,6,Recognition
+133,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối chủ động cập nhật mốc tiến độ sản phẩm CCUS IFC,6,Recognition
+134,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối chủ động hoàn thiện mốc công việc JX & sản phẩm số Khí,6,Recognition
+135,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thiện cập nhật giao diện sản phẩm well log để bảo vệ Hội đồng,6,Recognition
+136,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối hướng dẫn xây dựng Copilot demo Get Intent dùng Plugin Actions,6,Recognition
+137,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Liên tục tham gia họp và triển khai các dự án CCUS (3 nhát/tuần),6,Recognition
+138,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng video chuyển nghiệp bc tổng kết VPI,6,Recognition
+139,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng video chuyển nghiệp bc tổng kết VPI,6,Recognition
+140,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng video chuyển nghiệp bc tổng kết VPI,6,Recognition
+141,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng video chuyển nghiệp bc tổng kết VPI,6,Recognition
+142,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng video chuyển nghiệp bc tổng kết VPI,6,Recognition
+143,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng video chuyển nghiệp bc tổng kết VPI,6,Recognition
+144,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối tổng hợp tài liệu bc Hội nghị tổng kết,6,Recognition
+145,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Thư ký linh hoạt, hoàn thành nhiệm vụ ctr Hội nghị TK",6,Recognition
+146,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối tổ chức đào tạo API và Power Automate,6,Recognition
+147,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hăng hái tham gia tổ chức đào tạo API và Power Automate,6,Recognition
+148,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối xây dựng thành công prototype v1 cho J4U,6,Recognition
+149,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Nhiệt tình phối hợp xây dựng thành công prototype v1 cho J4U,6,Recognition
+150,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Nhiệt tình phối hợp xây dựng thành công prototype v1 cho J4U,6,Recognition
+151,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Nhiệt tình phối hợp xây dựng thành công prototype v1 cho J4U,6,Recognition
+152,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Đầu mối thu xếp công tác công đoàn, quan tâm đời sống ace Bp",6,Recognition
+153,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Phối hợp thu xếp công tác công đoàn, quan tâm đời sống ace Bp",6,Recognition
+154,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Phối hợp thu xếp công tác công đoàn, quan tâm đời sống ace Bp",6,Recognition
+155,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Vượt qua bệnh dịch, tổng thiết kế và điều phối sản phẩm J4U v1",6,Recognition
+156,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Nghiên cứu công cụ nền tảng COE cho phát triển sản phẩm số,6,Recognition
+157,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Nghiên cứu xây dựng công cụ nền tảng COE cho phát triển sản phẩm số,6,Recognition
+158,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng cấu trúc & prototype công cụ cho nền tảng quản trị tri thức,6,Recognition
+159,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối thiết kế debug J4U chatbot v2,6,Recognition
+160,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng test hệ thống COE site,6,Recognition
+161,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng test hệ thống COE site demo các sản phẩm,6,Recognition
+162,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thành project sản phẩm số LPG Phoenix,6,Recognition
+163,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Kiên trì khởi nghiệp: đóng gói component Topic,6,Recognition
+164,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Đồng cảm nắm bắt nhận diện vấn đề trong cv,6,Recognition
+165,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Kiên trì (vì rất lâu r) xây dựng sản phẩm số Kinh tế vĩ mô gửi PVN,6,Recognition
+166,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hoàn thành macro dashboard v1 gửi PVN,6,Recognition
+167,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Hướng dẫn tốt cho các nhóm công việc (Dữ liệu số, Copilot...)",6,Recognition
+168,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Cập nhật báo cáo và giải trình BC JX update (despite covid!),6,Recognition
+169,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Nhiệt tình sáng tạo trang trí Tết công đoàn,6,Recognition
+170,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Nhiệt tình sáng tạo trang trí Tết công đoàn,6,Recognition
+171,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Nhiệt tình sáng tạo trang trí Tết công đoàn,6,Recognition
+172,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối triển khai công tác công đoàn Xuân 2024,6,Recognition
+173,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Quyết liệt triển  khai công tác 5S tại công sở :),6,Recognition
+174,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Nghiên cứu phát triển nền tảng DOE VPI!,6,Recognition
+175,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Duy trì mở rộng bài toán AI với PVPower,6,Recognition
+176,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối tổ chức hội thảo triển lãm How to work with AI,6,Recognition
+177,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Debug thành công authen AI Plugins với Sign-in,6,Recognition
+178,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hỗ trợ đào tạo thực hành BC tự động với AI Chi bộ nghiệp vụ,6,Recognition
+179,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Hỗ trợ đào tạo thực hành BC tự động với AI Chi bộ nghiệp vụ,6,Recognition
+180,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Thử nghiệm hệ thống kết nối API với Coze.com (Telegram, Reddit, Line)",6,Recognition
+181,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Thử nghiệm hệ thống kết nối API với Coze.com (Telegram, Reddit, Line)",6,Recognition
+182,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Thử nghiệm tổng thể các tính năng advanced của Coze.com,6,Recognition
+183,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Tích cực xây dựng hệ thống chia sẻ kiến thức Viva Topics (cùng Bp PTTT),6,Recognition
+184,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối chuẩn bị hội thảo Advanced RAG VPI mở rộng,6,Recognition
+185,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Kiên trì thấu hiểu để cung cấp giải pháp J4U cho các khách hàng doanh nghiệp,6,Recognition
+186,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Đào tạo chia sẻ hướng dẫn cho các cán bộ trẻ,6,Recognition
+187,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Đào tạo chia sẻ hướng dẫn cho các cán bộ trẻ,6,Recognition
+188,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Data Engineer tốt (deploy WeaviateConnection - wth?!?!?),6,Recognition
+189,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị nội dung báo cáo PVN tại Hội nghị LPG!!,6,Recognition
+190,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Nỗ lực triển khai các ứng dụng AI mới nhất (bc tự động toàn multimodal!),6,Recognition
+191,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Hướng dẫn thử nghiệm công cụ BC tự động (hình, bảng)",6,Recognition
+192,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Đầu mối triển khai thử nghiệm công cụ BC tự động (hình, bảng)",6,Recognition
+193,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị hoàn thiện dự thảo slide BC Hội nghị TDKT PVN,6,Recognition
+194,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)","Trách nhiệm, cẩn thận trong công việc chung (của Bp)",6,Recognition
+195,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Hoàn thiện nhanh, kịp thời sp số LPG nâng cao bc PVN",6,Recognition
+196,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chuyến bay giải cứu: sp số LPG bc PVN!!,6,Recognition
+197,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 1,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Chủ động đầu mối nghiên cứu RLHF, chia sẻ cho Bp",6,Recognition
+198,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối triển khai công cụ Chatbot thay đổi PBI visual,6,Recognition
+199,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Excellence change management and agility on roadshow1,6,Recognition
+200,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Triển khai chương trình đào tạo chung HLJOC và xử lý tình huống day 1!!,6,Recognition
+201,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)","Đi xa, dạy giỏi, ăn mặc đẹp!",6,Recognition
+202,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Điều phối xử lý phần đào tạo chatbot cho HLJOC,6,Recognition
+203,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Amazing demoer! tks for prep 3 demos for Vietpoint,6,Recognition
+204,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chuẩn bị kỹ và trách nhiệm cho slide bc LĐ Viện tại Hội nghị TDKT PVN,6,Recognition
+205,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Nắm bắt nhanh xây dựng chatbot với Asssistant API của OpenAI,6,Recognition
+206,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",you ship our first site AI Works!,6,Recognition
+207,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối triển khai chương trình chia sẻ AI demo cho PVU (AI Works 1st work!),6,Recognition
+208,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối xây dựng DOE app chia sẻ demo cho PVU (AI Works 1st work!),6,Recognition
+209,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối rà soát hoàn thiện dashboard offshorewind bc LĐ PVN,6,Recognition
+210,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Thử nghiệm xây dựng Agent trên Dify & pro-code framework,6,Recognition
+211,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối triển khai chương trình Career day tại VinUni quảng bá cho VPI,6,Recognition
+212,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Superd tech + product builder: Auto Research Agent on Power platfrom,6,Recognition
+213,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối xử lý nhanh bài toán chuyển đổi dữ liệu PAC ,6,Recognition
+214,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,"Đồng cảm, đồng hành trong công việc chung (6)",Got your first Boulder!,6,Recognition
+215,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Nỗ lực chuẩn bị cho các dự án mới AI Works (Vietpoint demo day!),6,Recognition
+216,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Trách nhiệm và chi tiết với báo giá đầu tiên của AI Works,6,Recognition
+217,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối chuẩn bị slide bc PVN về CL AI,6,Recognition
+218,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,Quý 2,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Chủ động tích cực nghiên cứu nắm bắt nền tảng Dify,6,Recognition
+219,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O1,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Tích cực nắm bắt nghiên cứu nền tảng Dify,6,Recognition
+220,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O3,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Đầu mối chuẩn bị rất tốt cho demo Vietpoint,6,Recognition
+221,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2,O2,OKR,"Đồng cảm, đồng hành trong công việc chung (6)",Xây dựng bộ dữ liệu demo cho VPI Insight backend prototype,6,Recognition
+222,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1/2023,O1,OKRs,Cảm ơn đã hỗ trợ tôi (2),"Sơn đã chủ động nhanh chóng nắm bắt công cụ xây dựng API từ DE để đóng gói các sản phẩm dữ liệu fracture (goal 2), góp ý cho nhóm DE và DA/DS để hoàn thiện quy trình trên pro-code",2,Feedback
+223,Lê Ngọc Anh,CTO,Samsung,Trần Vũ Hải Lân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Lân đã hỗ trợ nhóm dựng nhanh công cụ ghi nhận/phản hồi để nhóm có thể chủ động công cụ CFR gắn với nền tảng Power platform & Teams!,2,Feedback
+224,Đào Hương Giang,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn chị Vy đã chia sẻ và giải thích quy trình thực hiện cũng như các vấn đề liên quan trên nền tảng PBI ạ,3,Feedback
+225,Trần Vũ Hải Lân,DE,Samsung,Đỗ Hồng Hạnh,,,Khác,Cảm ơn đã chia sẻ với tôi (3),cảm ơn chị Hạnh đã chỉ bảo ,3,Feedback
+226,Trần Vũ Hải Lân,DE,Samsung,Bùi Tuấn Anh,,,Khác,Cảm ơn đã chia sẻ với tôi (3),cảm ơn anh Tuấn Anh đã support em một số cái mới :D,3,Feedback
+227,Nguyễn Trung Sơn,DA,Apple,Nguyễn Thanh Sang,Quý 1/2023,O1,OKRs,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Anh Sang đã hỗ trợ em trong việc convert XGB model thành Json String,2,Feedback
+228,Đào Hương Giang,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Nhân chia sẻ và giải thích các vấn đề khi thử nghiệm nền tảng PBI ạ,3,Feedback
+229,Đào Hương Giang,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn chị Vy đã chỉnh sửa giúp em các vấn đề gặp phải khi thử nghiệm các công việc trên nền tảng PBI ạ,2,Feedback
+230,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Em cảm ơn anh đã góp ý chỉnh sửa giúp em trong việc xây dựng báo cáo cho sản phẩm,3,Feedback
+231,Đỗ Hồng Hạnh,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn chị Vy đã góp ý giúp em trong mảng sản phẩm LPG ạ ,2,Feedback
+232,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"a Nhữ Đức đang triển khai một loạt hoạt động cần thiết để hỗ trợ nhóm trong việc duy trì, sử dụng hiệu quả các tài khoản công cụ hằng ngày (Macbook, miro, các tài khoản và dịch vụ request từ Microsoft, datacamp...)",3,Feedback
+233,Bùi Tuấn Anh,DE,Samsung,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+234,Bùi Tuấn Anh,DE,Samsung,Nhữ Anh Đức,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+235,Bùi Tuấn Anh,DE,Samsung,Trần Vũ Hải Lân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+236,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),"Học và đạt điểm thi tiếng Anh tốt, khẳng định chất lượng nhân viên DNA, on track để nộp hồ sơ chính thức ",3,Feedback
+237,Vũ Tuyết Vy,DA,Apple,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Hỗ trợ hướng dẫn người dùng EPC nhập liệu và rà soát file las,2,Feedback
+238,Vũ Tuyết Vy,DA,Apple,Bùi Tuấn Anh,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Chủ động nghiên cứu API và hỗ trợ xây dựng API với nền tảng low-code,2,Feedback
+239,Vũ Tuyết Vy,DA,Apple,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn đã trao đổi và giải thích các vấn đề trong quá trình xây dựng các quy trình chung của các nền tảng,3,Feedback
+240,Vũ Tuyết Vy,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Nhân đã hỗ trợ và rất tích cực trong việc thử nghiệm các sản phẩm mới trên PBI và phản hồi thường xuyên,2,Feedback
+241,Vũ Tuyết Vy,DA,Apple,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),"Cảm ơn Giang đã hỗ trợ và rất chủ động, tích cực thử nghiệm nền tảng PBI",2,Feedback
+242,Bùi Tuấn Anh,DE,Samsung,Trần Thị Tuyết Hằng,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+243,Vũ Tuyết Vy,DA,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+244,Nguyễn Trung Sơn,DA,Apple,Bùi Tuấn Anh,Quý 1/2023,O1,OKRs,Cảm ơn đã hỗ trợ tôi (2),"Cảm ơn em đã phối hợp với Anh, triển khai thực hiện xây dựng API truyền dữ liệu vào Docker.",2,Feedback
+245,Phạm Duy Phương,DE,Apple,Nguyễn Thanh Sang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+246,Phạm Duy Phương,DE,Apple,Đoàn Tiến Quyết,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beerrrr,2,Feedback
+247,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Thanh Sang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+248,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+249,Nguyễn Anh Tuấn,DA,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+250,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+251,Nguyễn Anh Tuấn,DA,Apple,Bùi Tuấn Anh,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+252,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Minh Châu,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+253,Trần Vũ Hải Lân,DE,Samsung,Nhữ Anh Đức,Quý 1/2023,O1,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn anh đã hỗ trợ em build app.,2,Feedback
+254,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Minh Châu,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Châu đã giúp đỡ phần DAX Power BI ,2,Feedback
+255,Đỗ Hồng Hạnh,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn chị Vy đã góp ý hoàn thiện các sản phẩm giúp em ,3,Feedback
+256,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Hỗ trợ nắm bắt và nhập liệu OKR Q1 và Q2 của toàn bộ Bộ phận,3,Feedback
+257,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Tham gia xây dựng mảng công việc mới của OKR Q2 Bộ phận (API),3,Feedback
+258,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Tham gia tổng hợp các quy định về quản lý tài liệu mật và an ninh mạng,2,Feedback
+259,Lê Ngọc Anh,CTO,Samsung,Nguyễn Minh Châu,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Tham gia sửa đổi cập nhật dashboard dầu thô cho nghiệm thu đề tài,3,Feedback
+260,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Tích cực chuẩn bị dashboard và báo cáo cho nghiệm thu đề tài dầu thô,3,Feedback
+261,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Hỗ trợ Nhóm đào tạo, chuyển giao kinh nghiệm cho các ace trong Viện (Sử) trong một thời gian ngắn, rất hiệu quả.",3,Feedback
+262,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),"Chủ động nắm bắt nhiều công nghệ mới, quản lý tổ chức phần mảng việc Data Scientist, sẵn sàng chia sẻ cho nhóm",3,Feedback
+263,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Hỗ trợ nhóm theo dõi, triển khai các mảng việc độc lập và rất khó, phức tạp, sẵn sàng chia sẻ với các bạn trẻ (map, 2D, 3D)",3,Feedback
+264,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Tuấn đã hỗ trợ em phần code xử lý trên Deepnote ạ,2,Feedback
+265,Đỗ Hồng Hạnh,DA,Apple,Phạm Duy Phương,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Duy Phương đã xây dựng và hỗ trợ công cụ dự báo Time Series,2,Feedback
+266,Đào Hương Giang,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Nhân đã chia sẻ thêm về công cụ Paginated report ạ ,3,Feedback
+267,Đào Hương Giang,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Nhân đã hỗ trợ em tạo pagonated report với sản phẩm bản tin TMDV ạ,2,Feedback
+268,Nguyễn Trung Sơn,DA,Apple,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Giang đã hỗ trợ hoàn thành nhập liệu vào công cụ OKR.,2,Feedback
+269,Nguyễn Trung Sơn,DA,Apple,Nguyễn Thu Hương,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Chị Hương đã chia sẻ những đặc điểm cần được cải thiện trong công cụ OKR của Bộ Phận ,3,Feedback
+270,Nhữ Anh Đức,DE,Samsung,Vũ Tuyết Vy,Quý 1/2023,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Vy đã chia sẻ và tư vấn về các tính năng cần thiết củae Monitoring Tool,3,Feedback
+271,Đào Hương Giang,DA,Apple,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Sơn đã chia sẻ về công cụ hỗ trợ check-in OKR ạ,3,Feedback
+272,Đỗ Hồng Hạnh,DA,Apple,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Giang đã hỗ trợ cùng xử lý lỗi trên PowerBI,2,Feedback
+273,Đoàn Tiến Quyết,DA,Apple,Nguyễn Minh Châu,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cám ơn Châu đã phối hợp hoàn thiện DB dầu thô,2,Feedback
+274,Nguyễn Minh Châu,DA,Apple,Đoàn Tiến Quyết,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Quyết đã chia sẻ với em kiến thức về dầu thô và 1 số thắc mắc khác khi hoàn thiện DB ạ,3,Feedback
+275,Nguyễn Minh Châu,DA,Apple,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Sơn đã chia sẻ với em về PBI AutoML từ lần trước ạ :v,3,Feedback
+276,Nguyễn Minh Châu,DA,Apple,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Tuấn chia sẻ với em kiến thức chuyên môn cho việc xây API catalog ạ,3,Feedback
+277,Nguyễn Minh Châu,DA,Apple,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn anh Tuấn đã hỗ trợ em từ cả đợt bản đồ và API catalog ạ :D,2,Feedback
+278,Nguyễn Minh Châu,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn Vy đã hỗ trợ em hoàn thiện DB dầu thô ạ :>,2,Feedback
+279,Nguyễn Minh Châu,DA,Apple,Đỗ Hồng Hạnh,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn chị Hạnh hỗ trợ em khi xử lý dữ liệu trên PBI ạ :D,2,Feedback
+280,Nguyễn Minh Châu,DA,Apple,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Giang đã hỗ trợ giải đáp thắc mắc về PBI :>,2,Feedback
+281,Nguyễn Minh Châu,DA,Apple,Bùi Tuấn Anh,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn anh TA hỗ trợ em biết thêm về API ạ,2,Feedback
+282,Bùi Tuấn Anh,DE,Samsung,Trần Vũ Hải Lân,Quý 1/2023,O1,Khác,Cảm ơn đã hỗ trợ tôi (2),Cám ơn Lân đã hỗ trợ a troubleshoot portal API M,2,Feedback
+283,Đào Hương Giang,DA,Apple,Trần Vũ Hải Lân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Lân đã hỗ trợ cài đặt parallel cho em ạ ,2,Feedback
+284,Trần Vũ Hải Lân,DE,Samsung,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),cảm ơn anh Sơn đã góp ý cho em về phần nhận thông báo cho tool,2,Feedback
+285,Trần Vũ Hải Lân,DE,Samsung,Phạm Duy Phương,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Tặng bù của anh Quyết cho Phương,3,Feedback
+286,Trần Vũ Hải Lân,DE,Samsung,Phạm Duy Phương,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Tặng bù của anh Tuấn cho Phương,3,Feedback
+287,Phạm Duy Phương,DE,Apple,Trần Vũ Hải Lân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Lắng nghe khắc phục tổn thất, đền bù thỏa đáng, nice",3,Feedback
+288,Phạm Duy Phương,DE,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn anh vì đã hỗ trợ Docker,2,Feedback
+289,Phạm Duy Phương,DE,Apple,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn anh vì đã hỗ trợ chỉnh Path,2,Feedback
+290,Trần Vũ Hải Lân,DE,Samsung,Phạm Duy Phương,,,Khác,Cảm ơn đã hỗ trợ tôi (2),cảm ơn Phương đã góp ý,2,Feedback
+291,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1/2023,O3,OKR,Cảm ơn đã chia sẻ với tôi (3),Phối hợp Chủ động kiên trì theo đuổi và renew được tài khoản Datacamp cho VPI,3,Feedback
+292,Lê Ngọc Anh,CTO,Samsung,Trần Vũ Hải Lân,,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),"Nỗ lực liên tục cập nhật các tính năng của app CFR tool trên Power Apps (giao diện, thông báo...)",3,Feedback
+293,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Hỗ trợ Chủ nhiệm trong đôn đốc đề tài bị chậm tiến độ, đồng thời tư vấn đề có giải pháp phù hợp với việc đăng ký đề tài",5,Feedback
+294,Trương Văn Nhân,DA,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Hỗ trợ chỉnh sửa OKRs đêm khuya,2,Feedback
+295,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Vận động hỗ trợ văn nghệ Hội nghị công đoàn,2,Feedback
+296,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+297,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Làm việc rất muộn, chia sẻ việc ko muốn khóa cửa với tôi",3,Feedback
+298,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Làm việc rất muộn, chia sẻ việc ko muốn khóa cửa với tôi",3,Feedback
+299,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Làm việc rất muộn, chia sẻ việc ko muốn khóa cửa với tôi",3,Feedback
+300,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Làm việc muộn (dù lý do khách quan ko chính đáng),2,Feedback
+301,Đào Hương Giang,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Nhân đã hỗ trợ em áp dụng các tính năng của Paginated Report với sản phẩm bản tin TMDV ạ ,2,Feedback
+302,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1/2023,O5,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hệ thống và lưu trữ các tài liệu đào tạo về low-code platform PowerBI,5,Feedback
+303,Nguyễn Thu Hương,DA,Samsung,Nhữ Anh Đức,Quý 2/2023,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Nhữ Đức đã chia sẻ mục tiêu về phát triển nền tảng sản phẩm số,3,Feedback
+304,Nguyễn Thu Hương,DA,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O2,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Sơn đã chia sẻ các ví dụ về sản phẩm số dạng pro-code,3,Feedback
+305,Nguyễn Thu Hương,DA,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O2,OKR,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Tuấn đã hỗ trợ chỉnh sửa bản đồ cho sản phẩm CCUS,2,Feedback
+306,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,,Khác,Cảm ơn đã chia sẻ với tôi (3),Tổ chức đào tạo PVU online kết hợp nhuần nhuyễn các cv khác!!,3,Feedback
+307,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Triển khai đào tạo cho PVU online tích cực trách nhiệm cao,3,Feedback
+308,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Triển khai đào tạo cho PVU online tích cực trách nhiệm cao,3,Feedback
+309,Vũ Tuyết Vy,DA,Apple,Trương Văn Nhân,Quý 1/2023,O1,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Nhân đã hỗ trợ triển khai đào tạo PVU,3,Feedback
+310,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Chủ động nghiên cứu triển khai phần BC tự động pro-code,3,Feedback
+311,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+312,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+313,Trương Văn Nhân,DA,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+314,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Nhân đã hỗ trợ phần Paginated Report ạ :D,2,Feedback
+315,Đỗ Hồng Hạnh,DA,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Đức đã hỗ trợ em phần connect báo cáo tự động ạ ,2,Feedback
+316,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Sơn đã hỗ trợ em phần báo cáo tự động ạ :D,2,Feedback
+317,Đỗ Hồng Hạnh,DA,Apple,Phạm Duy Phương,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Duy Phương đã hỗ trợ sửa lỗi python :D,2,Feedback
+318,Phạm Duy Phương,DE,Apple,Nguyễn Thanh Sang,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn vì đã chia sẻ ạ,3,Feedback
+319,Vũ Tuyết Vy,DA,Apple,Nguyễn Anh Tuấn,Quý 1/2023,O1,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+320,Trần Vũ Hải Lân,DE,Samsung,Bùi Tuấn Anh,,,Khác,Cảm ơn đã hỗ trợ tôi (2),cảm ơn đã hỗ trợ tool Migrate DTM Postgre,2,Feedback
+321,Nguyễn Trung Sơn,DA,Apple,Nguyễn Thu Hương,Quý 2/2023,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn đã chia sẻ với em những trang web cơ sở dữ liệu trên thế giới,3,Feedback
+322,Nguyễn Trung Sơn,DA,Apple,Nguyễn Thanh Sang,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Anh Sang đã chia sẻ kinh nghiệm code và debug code với em!,3,Feedback
+323,Vũ Tuyết Vy,DA,Apple,Nguyễn Trung Sơn,Quý 1/2023,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+324,Nguyễn Trung Sơn,DA,Apple,Vũ Tuyết Vy,Quý 1/2023,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Vy đã chia sẻ cách Querry,3,Feedback
+325,Nguyễn Thanh Sang,DS,Samsung,Đoàn Huy Hiên,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Cám ơn anh Hiên đã mời tham dự buổi họp áng này, nội dung anh trình bày rất thú vị và gây tò mò.",3,Feedback
+326,Nguyễn Thanh Sang,DS,Samsung,Lê Ngọc Anh,Quý 2/2023,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Cám ơn anh đã góp ý OKRs Q2 và tạo đk để em nghe đc nội dung về neural operator,3,Feedback
+327,Lê Ngọc Anh,CTO,Samsung,Trần Vũ Hải Lân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Phối hợp test công cụ chuyển đổi dữ liệu datamart > Postgres,3,Feedback
+328,Lê Ngọc Anh,CTO,Samsung,Bùi Tuấn Anh,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cập nhật công cụ chuyển đổi dữ liệu datamart > Postgres,3,Feedback
+329,Nguyễn Thanh Sang,DS,Samsung,Đoàn Huy Hiên,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Cám ơn anh đã chia sẻ về neural operator, một lĩnh vực tiềm năng có thể ứng dụng trong công việc ",3,Feedback
+330,Nguyễn Thanh Sang,DS,Samsung,Đoàn Huy Hiên,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh đã chia sẻ về neural operator. Nội dung trao đổi là rất hấp dẫn và gây tò mò.,3,Feedback
+331,Đoàn Huy Hiên,DS,Samsung,Nguyễn Thanh Sang,Quý 2/2023,O2,OKR,Cảm ơn đã chia sẻ với tôi (3),cam on Sang da chia se ve PINN va FNO,3,Feedback
+332,Trần Vũ Hải Lân,DE,Samsung,Đỗ Hồng Hạnh,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Đồng cảm trong việc làm chuột bạch trong các thử nghiệm,3,Feedback
+333,Trần Vũ Hải Lân,DE,Samsung,Đào Hương Giang,Quý 2/2023,,Khác,Cảm ơn đã hỗ trợ tôi (2),Hỗ trợ bộ phận trong nhập liệu OKR Metrics 😁,2,Feedback
+334,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Đào tạo & phối hợp xây dựng sản phẩm số cho mảng cổ sinh (ver 2) rất hoàn chỉnh, gồm PowerBI, download file + Paginated",5,Feedback
+335,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp áp dụng thành công chuyển đổi dữ liệu Well log database về Postgres (tool DE),5,Feedback
+336,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),"Tăng cường đọc (reading skill), có chỉ tiêu và lộ trình rõ, cầu thị (ko phải cận thị)",3,Feedback
+337,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Phối hợp thử nghiệm Mail Merge (tool done) với báo cáo dữ liệu c Xuân & Trang,3,Feedback
+338,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Chuẩn bị bc về OSDU nhanh và nhiều thông tin, chuẩn bị cho các hướng triển khai đầu tiên",5,Feedback
+339,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hướng dẫn hoàn thành BC Paginated report (ver 1) cho bản tin thị trường PVN,5,Feedback
+340,Vũ Tuyết Vy,DA,Apple,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cứu vớt 30tr dòng dữ liệu bị mất,3,Feedback
+341,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thu Hương,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp hỗ trợ nhóm BA về tổ chức dữ liệu (data model) cho đề tài trọng điểm PVN,5,Feedback
+342,Đỗ Hồng Hạnh,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn chị Vy đã góp ý giúp em dự án với Phoenix ạ :D,3,Feedback
+343,Đỗ Hồng Hạnh,DA,Apple,Đoàn Tiến Quyết,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Quyết đã chia sẻ kinh nghiệm trong công việc ạ,3,Feedback
+344,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Thanh Sang,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Sang rất nhiều vì đã chia sẻ một cuốn sách hay và những điều tích cực. Antifragile!,3,Feedback
+345,Trương Văn Nhân,DA,Samsung,Nhữ Anh Đức,,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+346,Vũ Tuyết Vy,DA,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+347,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Thử nghiệm chi tiết Azure Function (local + Azure), ghi chú kỹ và debug",5,Feedback
+348,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O2,OKR,Cảm ơn đã chia sẻ với tôi (3),Phối hợp debug chi tiết Azure Function (local + Azure),3,Feedback
+349,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Rà soát lựa chọn công cụ bản đồ cho sản phẩm số và VPI Insight (Plotly Dash),5,Feedback
+350,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+351,Vũ Tuyết Vy,DA,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Đức đã chia sẻ công cụ API đối với SP,2,Feedback
+352,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+353,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Thử nghiệm tính năng mới về dataset của PowerBI cập nhật t4/2023,3,Feedback
+354,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2/2023,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Thử nghiệm tính năng mới về dataset của PowerBI cập nhật t4/2023,3,Feedback
+355,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O2,OKR,Cảm ơn đã chia sẻ với tôi (3),Debug nhanh lỗi đưa API mô hình lên Azure Function (saved model),3,Feedback
+356,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thu Hương,,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Xây dựng kế hoạch phát triển các sản phẩm số và check-in cụ thể trên Metrics,3,Feedback
+357,Vũ Tuyết Vy,DA,Apple,Phạm Duy Phương,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn DP hỗ trợ tổng hợp LLM,2,Feedback
+358,Vũ Tuyết Vy,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Nhân đã chia sẻ phần dataset modelling,3,Feedback
+359,Đoàn Huy Hiên,DS,Samsung,Lê Ngọc Anh,Quý 2/2023,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),Cảm ơn đã hỗ trợ trong việc thúc đẩy công việc với bên thứ 3,3,Feedback
+360,Đoàn Huy Hiên,DS,Samsung,Nguyễn Thanh Sang,Quý 2/2023,O1,OKR,Cảm ơn đã hỗ trợ tôi (2),cảm ơn Sang đã chia sẻ Google colab và hướng dẫn những bước đi đầu tiên,2,Feedback
+361,Đào Hương Giang,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Nhân đã chia sẻ thêm về các tính năng của Paginated Report và cách auto email,3,Feedback
+362,Đào Hương Giang,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Nhân đã hỗ trợ em phần auto email với bản tin thương mại dịch vụ ạ ,2,Feedback
+363,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Tìm giải pháp khắc phục auto email Paginated report (trong 1 tiếng), man!",3,Feedback
+364,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Tìm giải pháp khắc phục auto email Paginated report (trong 1 tiếng), man!",3,Feedback
+365,Trương Văn Nhân,DA,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+366,Đào Hương Giang,DA,Apple,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Tuấn đã chia sẻ về workflow và nội dung làm việc với nhóm Phân chia sản phẩm ạ,3,Feedback
+367,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+368,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Ngọc Anh đã góp ý giúp em công cụ xử lý XNK,3,Feedback
+369,Đỗ Hồng Hạnh,DA,Apple,Đoàn Tiến Quyết,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Quyết đã hỗ trợ phần công cụ xử lý XNK ạ,3,Feedback
+370,Đỗ Hồng Hạnh,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn chị Vy đã góp ý giúp em về công cụ xử lý XNK ạ ,3,Feedback
+371,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,Quý 2/2023,,Khác,Cảm ơn đã chia sẻ với tôi (3),Nice going man (IconMap),3,Feedback
+372,Nguyễn Anh Tuấn,DA,Apple,Lê Ngọc Anh,,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Many thank a NA đã hỗ trợ e nội dung xây dựng quy trình procode,3,Feedback
+373,Nguyễn Trung Sơn,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Nhân đã chia sẻ với Anh về hiện thị Lô trên PowerBi,3,Feedback
+374,Nguyễn Trung Sơn,DA,Apple,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Tuấn đã hỗ trợ anh hiển thị Block lên PowerBI,2,Feedback
+375,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Theo dõi phối hợp nhóm cập nhật tính năng mới IconMap cho nền tảng low code của Bp ,5,Feedback
+376,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Theo dõi phối hợp và tổng hợp tính năng cập nhật của IconMap cho nền tảng low code của Bp ,5,Feedback
+377,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,Quý 2/2023,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beers Cheers,3,Feedback
+378,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),,3,Feedback
+379,Trương Văn Nhân,DA,Samsung,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+380,Trương Văn Nhân,DA,Samsung,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+381,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+382,Trương Văn Nhân,DA,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+383,Lê Ngọc Anh,CTO,Samsung,Trần Vũ Hải Lân,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng tài liệu hướng dẫn và trực tiếp hướng dẫn các BA trong sử dụng Power Query cho mô hình,5,Feedback
+384,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Thu Hương,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn chị Hương đã giúp đỡ em ạ :D ,2,Feedback
+385,Trần Vũ Hải Lân,DE,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),cảm ơn Giang đã hỗ trợ trong việc xây document,2,Feedback
+386,Lê Ngọc Anh,CTO,Samsung,Nguyễn Văn Sử,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Nhanh chóng nắm bắt, đóng góp cho phần viết sách AIPowerBI trong 1 tuần",5,Feedback
+387,Trương Văn Nhân,DA,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+388,Đào Hương Giang,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+389,Đào Hương Giang,DA,Apple,Đoàn Tiến Quyết,,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+390,Đào Hương Giang,DA,Apple,Trần Vũ Hải Lân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+391,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Xây dựng công cụ auto-report với Mail merge, doc và hướng dẫn nhóm c Xuân, Trang với BC đầy đủ dữ liệu",5,Feedback
+392,Trương Văn Nhân,DA,Samsung,Nhữ Anh Đức,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+393,Đỗ Hồng Hạnh,DA,Apple,Đoàn Tiến Quyết,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn anh Quyết đã hỗ trợ em phần số liệu cho LPG ạ :D ,2,Feedback
+394,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+395,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+396,Trương Văn Nhân,DA,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+397,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 2/2023,O2,OKR,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Hoàn thành công cụ xây dựng API doc ver 1,3,Feedback
+398,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,O2,OKR,Cảm ơn đã chia sẻ với tôi (3),Hướng dẫn xây dựng công cụ xây dựng API doc ver 1,3,Feedback
+399,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thực hiện báo cáo đột xuất cho Ban TMDV về crack spread kịp thời,3,Feedback
+400,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Chuẩn bị tài liệu, hội thảo báo cáo hội đồng khoa học về CL dữ liệu & ChatGPT",5,Feedback
+401,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Chuẩn bị tài liệu, sản phẩm báo cáo hội đồng khoa học về LLM",5,Feedback
+402,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Chuẩn bị tài liệu, hội thảo báo cáo hội đồng khoa học về ChatGPT",5,Feedback
+403,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hỗ trợ triển khai sản phẩm số (mảnh ghép) với PVPro,5,Feedback
+404,Lê Ngọc Anh,CTO,Samsung,Trần Vũ Hải Lân,,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Nỗ lực thực hiện công việc (API user cho front end) dù đang ốm dậy,3,Feedback
+405,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Nỗ lực thử nghiệm hoàn thiện hơn hệ thống hạ tầng xây dựng API (Azure DevOps, Render)",5,Feedback
+406,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Thử nghiệm đánh giá hoàn thiện hệ thống xây dựng API (DevOps Azure, Render)",5,Feedback
+407,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Hoàn thành thử nghiệm đánh giá đề xuất các công cụ để xây dựng API (Azure Function v1, v2)",5,Feedback
+408,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hỗ trợ hoàn thiện các sản phẩm phục vụ Triển lãm của Bộ KHCN,5,Feedback
+409,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beer,3,Feedback
+410,Nguyễn Anh Tuấn,DA,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+411,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beeer,2,Feedback
+412,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beeer,2,Feedback
+413,Trương Văn Nhân,DA,Samsung,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+414,Vũ Tuyết Vy,DA,Apple,Nguyễn Thanh Sang,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Sang đã cứu em với đống article GPT,3,Feedback
+415,Vũ Tuyết Vy,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+416,Vũ Tuyết Vy,DA,Apple,Lê Ngọc Anh,,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+417,Nguyễn Thu Hương,DA,Samsung,Nguyễn Trung Sơn,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Sơn đã chia sẻ kinh nghiệm về Deepnote & Chat GPT,3,Feedback
+418,Nguyễn Trung Sơn,DA,Apple,Nguyễn Anh Tuấn,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cùng hỗ trợ nhóm khai thác hoàn thành sản phẩm khai thác tham dự triển lãm Bộ KHCN ,2,Feedback
+419,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Chuẩn bị nội dung phục vụ BC Hội đồng khoa học về CL & ChatGPT,5,Feedback
+420,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Chuẩn bị nội dung chính phục vụ BC Hội đồng khoa học về CL & ChatGPT,5,Feedback
+421,Trần Vũ Hải Lân,DE,Samsung,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),test 19/5,2,Feedback
+422,Nguyễn Trung Sơn,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn đã hỗ trợ Vlookup Excel,2,Feedback
+423,Nguyễn Anh Tuấn,DA,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beer,3,Feedback
+424,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beeer,3,Feedback
+425,Nguyễn Anh Tuấn,DA,Apple,Đào Hương Giang,,,Khác,Cảm ơn đã hỗ trợ tôi (2),Beer,2,Feedback
+426,Nguyễn Anh Tuấn,DA,Apple,Lê Ngọc Anh,,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Many thank anh NA ,3,Feedback
+427,Nguyễn Anh Tuấn,DA,Apple,Phạm Duy Phương,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beer beer,3,Feedback
+428,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beer Beer,3,Feedback
+429,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đầu mối triển khai thử nghiệm nền tảng và các công cụ Microsoft Fabric,5,Feedback
+430,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Triển khai thử nghiệm nền tảng và các công cụ Microsoft Fabric,5,Feedback
+431,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Triển khai thử nghiệm nền tảng và các công cụ Microsoft Fabric,5,Feedback
+432,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Triển khai thử nghiệm nền tảng và các công cụ Microsoft Fabric,5,Feedback
+433,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Triển khai thử nghiệm nền tảng và các công cụ Microsoft Fabric,5,Feedback
+434,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Triển khai thử nghiệm nền tảng và các công cụ Microsoft Fabric,5,Feedback
+435,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2/2023,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đầu mối hỗ trợ hoạt động chung của Bp tại Ngày hội gia đình Phú Quốc,5,Feedback
+436,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hỗ trợ hoạt động chung của Bp tại Ngày hội gia đình Phú Quốc,5,Feedback
+437,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hỗ trợ hoạt động chung của Bp tại Ngày hội gia đình Phú Quốc,5,Feedback
+438,Nguyễn Anh Tuấn,DA,Apple,Lê Ngọc Anh,,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),Thank đồ uống của a NA ạ,3,Feedback
+439,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beers,3,Feedback
+440,Nguyễn Anh Tuấn,DA,Apple,Nhữ Anh Đức,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beers,3,Feedback
+441,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beer,3,Feedback
+442,Nguyễn Anh Tuấn,DA,Apple,Đào Hương Giang,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beer,3,Feedback
+443,Nguyễn Anh Tuấn,DA,Apple,Phạm Duy Phương,,,Khác,Cảm ơn đã chia sẻ với tôi (3),Beer,3,Feedback
+444,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Thử nghiệm nhanh công cụ custom visual plotly,5,Feedback
+445,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Thử nghiệm nhanh công cụ custom visual plotly,5,Feedback
+446,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2/2023,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đầu mối rà soát hoàn thiện API backend để thử nghiệm với front end ICG,5,Feedback
+447,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2/2023,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị hội thảo ChatGPT với PVNDB,5,Feedback
+448,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đầu mối xử lý thanh toán vé máy bay Ngày hội gia đình Bp PTDL,5,Feedback
+449,Trương Văn Nhân,DA,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+450,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cheer,3,Feedback
+451,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Thanh Sang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank a Sang for LLM advices,3,Feedback
+452,Vũ Tuyết Vy,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+453,Vũ Tuyết Vy,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+454,Vũ Tuyết Vy,DA,Apple,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+455,Nguyễn Thanh Sang,DS,Samsung,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cám ơn anh đã chia sẻ ứng dụng của notebook fabric,3,Feedback
+456,Nguyễn Thanh Sang,DS,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),cám ơn anh đã chia sẻ các phương pháp đánh giá LLM,3,Feedback
+457,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Thử nghiệm xây dựng doc cho quy trình đóng gói API với Codespace và Azure Container,5,Feedback
+458,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tổng hợp nhanh tài liệu đào tạo Fabric ver 1,5,Feedback
+459,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 2,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tổng hợp nhanh tài liệu đào tạo Fabric ver 1,5,Feedback
+460,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tổng hợp nhanh tài liệu đào tạo Fabric ver 1,5,Feedback
+461,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 2,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp test nhập liệu Fabric với Dataverse for Teams,5,Feedback
+462,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+463,Nguyễn Trung Sơn,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Phương đã chia sẻ với anh kiến thức về Github,3,Feedback
+464,Vũ Tuyết Vy,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+465,Vũ Tuyết Vy,DA,Apple,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+466,Vũ Tuyết Vy,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+467,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Hi,3,Feedback
+468,Nguyễn Anh Tuấn,DA,Apple,Nhữ Anh Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Hi,3,Feedback
+469,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Hi,3,Feedback
+470,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Hi,3,Feedback
+471,Nguyễn Anh Tuấn,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Hi,3,Feedback
+472,Nguyễn Trung Sơn,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Thanks,2,Feedback
+473,Nguyễn Trung Sơn,DA,Apple,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Thanks,2,Feedback
+474,Nguyễn Trung Sơn,DA,Apple,Lê Ngọc Anh,Quý 1,O1,OKR,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Cảm ơn Anh Ngọc Anh đã cố vấn em thay đổi OKR quý 2,3,Feedback
+475,Trương Văn Nhân,DA,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+476,Trương Văn Nhân,DA,Samsung,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+477,Nguyễn Trung Sơn,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn đã hỗ trợ kiến thức Github,3,Feedback
+478,Nguyễn Thu Hương,DA,Samsung,Phạm Duy Phương,Quý 2,,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn đã hộ trợ & chia sẻ về time series model,3,Feedback
+479,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Thúc đẩy công việc dự án bản đồ với Petrolimex PEC (ký hợp đồng, chi tiết công việc, kiểm soát thời gian)",5,Feedback
+480,Đào Hương Giang,DA,Apple,Đỗ Hồng Hạnh,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+481,Đào Hương Giang,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+482,Đào Hương Giang,DA,Apple,Đoàn Tiến Quyết,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+483,Đào Hương Giang,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+484,Đào Hương Giang,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),,3,Feedback
+485,Đỗ Hồng Hạnh,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn chị Vy đã giúp em trong chuẩn bị phần BCTĐ cho hội thảo ạ,3,Feedback
+486,Đỗ Hồng Hạnh,DA,Apple,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Giang đã chia sẻ các kiến thức về Fabric :D ,3,Feedback
+487,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),,3,Feedback
+488,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Linh hoạt triển khai đào tạo Fabric cho khu vực phía Nam,5,Feedback
+489,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Đào tạo chia sẻ công cụ Metrics cho các bộ phận Nghiệp vụ, Đảng đoàn của Viện",5,Feedback
+490,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Đào tạo chia sẻ công cụ Metrics cho các bộ phận Nghiệp vụ, Đảng đoàn của Viện",5,Feedback
+491,Đào Hương Giang,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+492,Vũ Tuyết Vy,DA,Apple,Nhữ Anh Đức,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+493,Nguyễn Thu Hương,DA,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Tuấn đã hỗ trợ xây dựng bản đồ nhé,3,Feedback
+494,Nguyễn Thu Hương,DA,Samsung,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn bạn đã chia sẽ kinh nghiệm xử lý dữ liệu,3,Feedback
+495,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thu Hương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị nội dung trình bày với đoàn làm việc NUS Singpore,5,Feedback
+496,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị nội dung trình bày với đoàn làm việc NUS Singpore,5,Feedback
+497,Nguyễn Trung Sơn,DA,Apple,Nguyễn Thu Hương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Chị đã chia sẻ cho em một số kinh nghiệm trong việc tạo dừng báo cáo PowerBI,3,Feedback
+498,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 3,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng tài liệu Nhập liệu với PowerBI App cho người dùng Viện,5,Feedback
+499,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 3,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng tài liệu Nhập liệu với PowerBI App cho người dùng Viện,5,Feedback
+500,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 3,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng API cho sản phẩm Log normalisation (doc + build),5,Feedback
+501,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng công cụ tra cứu cho dữ liệu Công đoàn Viện,5,Feedback
+502,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+503,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Debug troubleshoot nhập liệu PowerApp + update docs,5,Feedback
+504,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng phương án tự động (mới) để deploy API sản phẩm số,5,Feedback
+505,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,Quý 3,O2,OKR,Cảm ơn đã chia sẻ với tôi (3),Nỗ lực phối hợp cho dự án bản tin PVOil xe điện,3,Feedback
+506,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng công cụ quản trị thông tin địa lý VPI Insight,5,Feedback
+507,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng công cụ quản trị thông tin địa lý VPI Insight,5,Feedback
+508,Đoàn Tiến Quyết,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Notebook,2,Feedback
+509,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Debug deploy 02 chatbot trong 1 ngày trên Teams AI,5,Feedback
+510,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp thử nghiệm góp ý quy trình API tự động ver 2,5,Feedback
+511,Nguyễn Trung Sơn,DA,Apple,Vũ Tuyết Vy,Quý 3,O2,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Vy đã chia sẻ kinh nghiệm việc tạo App nhập liệu cho nhiệm vụ cơ sở dữ liệu,3,Feedback
+512,Nguyễn Trung Sơn,DA,Apple,Nhữ Anh Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Anh Đức đã chia sẽ với Em kinh nghiệm trong việc tạo app nhập liệu,3,Feedback
+513,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Kết nối file Sharepoint, tổng hợp các config, update Teams AI code",5,Feedback
+514,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng các công cụ xây dựng FAQ và dữ liệu với Vector database,5,Feedback
+515,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Xây dựng API cho Underthesea package,3,Feedback
+516,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Nhân đã chia sẻ phần map cho sản phẩm trên PowerBI ạ,3,Feedback
+517,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 3,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đầu mối hoàn thiện các template tra cứu CSDL với NLP,5,Feedback
+518,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 3,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đào tạo hướng dẫn thực tập sinh phần tra cứu web và tổng hợp thông tin bằng NLP,5,Feedback
+519,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp dự án xây dựng chatbot quy trình nhóm nghiệp vụ (cung cấp công cụ chat với SQL),5,Feedback
+520,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Phối hợp chuẩn bị nghiệm thu đề tài Dự báo dầu thô (đánh giá sử dụng sp, phản biện, hoàn thiện dashboard)",5,Feedback
+521,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Thử nghiệm xây dựng VPI Insight với Solara & Leafmap Library,5,Feedback
+522,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O3,OKR,Cảm ơn đã chia sẻ với tôi (3),Thử nghiệm đánh giá API2Teams,3,Feedback
+523,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Phối hợp xây dựng các repo đầu tiên chatbot với SK,3,Feedback
+524,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đầu mối xây dựng repo API chatbot đầu tiên với SK,5,Feedback
+525,Nguyễn Trung Sơn,DA,Apple,Nhữ Anh Đức,Quý 3,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Anh đã chia sẻ kinh nghiệm trong xử lý dữ liệu cửa file cấu hình API,3,Feedback
+526,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp rà soát BC dầu thô để bc Hội đồng KH,5,Feedback
+527,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Đầu mối rà soát phần dashboard, cập nhật dữ liệu, chuẩn bị bc Hội đồng KH",5,Feedback
+528,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 3,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Theo dõi hỗ trợ sử dụng công cụ Chi bộ Nghiệp vụ,5,Feedback
+529,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Debug deploy thành công 02 phương án API (webapp & container),5,Feedback
+530,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Phối hợp debug, deploy API theo 02 phương án (webapp, container)",5,Feedback
+531,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Deploy thành công API chatbot theo SK (nhanh_,5,Feedback
+532,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Fix và Deploy 4 chatbot với database linh hoạt ,5,Feedback
+533,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Quản trị theo dõi cập nhật các nguồn lực Azure (dev),5,Feedback
+534,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 3,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp quản trị theo dõi cập nhật các nguồn lực Azure (dev),5,Feedback
+535,Phạm Duy Phương,DE,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),Cảm ơn anh vì luôn là lãnh đạo tuyệt vời ạ,3,Feedback
+536,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 3,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hỗ trợ chuẩn bị trình bày tại Hội thảo LNG PVGas (với nội dung thay đổi!!),5,Feedback
+537,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+538,Nguyễn Anh Tuấn,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),,3,Feedback
+539,Nguyễn Anh Tuấn,DA,Apple,Đỗ Hồng Hạnh,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+540,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Sao,3,Feedback
+541,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp triển khai nhanh và hiệu quả API dữ liệu số,5,Feedback
+542,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp triển khai nhanh và hiệu quả API dữ liệu số,5,Feedback
+543,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp triển khai nhanh và hiệu quả API dữ liệu số,5,Feedback
+544,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nỗ lực phối hợp nhóm LLM triển khai core chatbot API trên SK,5,Feedback
+545,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp góp ý triển khai core chatbot API (design),5,Feedback
+546,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 4,O2,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp thông tin chuẩn bị các báo cáo định kỳ về Chuyển đổi số,5,Feedback
+547,Trương Văn Nhân,DA,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+548,Vũ Tuyết Vy,DA,Apple,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Giang đã rất tiến bộ trong việc triển khai văn bản,3,Feedback
+549,Vũ Tuyết Vy,DA,Apple,Đỗ Hồng Hạnh,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Hạnh hỗ trợ trong ctac đào tạo,3,Feedback
+550,Vũ Tuyết Vy,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn anh Sơn vì rất n ý tưởng,2,Feedback
+551,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Phối hợp chuẩn bị hoàn thiện sp Dầu thô bc HĐKH (điểm 8.8!),3,Feedback
+552,Đỗ Hồng Hạnh,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn chị Vy đã góp ý giúp em phần rà soát CSDL ạ,3,Feedback
+553,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nghiên cứu thử nghiệm chuyển giao BC AutoGen (BA),5,Feedback
+554,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hoàn thành công cụ evaluation cho LLM tool (ver 1),5,Feedback
+555,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hoàn thành công cụ evaluation cho LLM tool (ver 1),5,Feedback
+556,Phạm Duy Phương,DE,Apple,Trần Khánh Tùng,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Chào mừng đến với OKR Recognition,3,Feedback
+557,Phạm Duy Phương,DE,Apple,Nguyễn Mạnh Tiến,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Chào mừng đến với OKR Recognition,3,Feedback
+558,Phạm Duy Phương,DE,Apple,Bùi Quang Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Chào mừng đến với OKR Recognition,3,Feedback
+559,Phạm Duy Phương,DE,Apple,Đoàn Tiến Quyết,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn vì đã học hỏi về code ạ,3,Feedback
+560,Nguyễn Mạnh Tiến,DA,Samsung,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn vì đã add tôi vào app này để có thể gửi tặng sao ,3,Feedback
+561,Bùi Quang Đức,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),cảm ơn bạn nha,2,Feedback
+562,Trần Khánh Tùng,DE,Samsung,Phạm Duy Phương,Quý 4,,,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn em hướng dẫn áp VPI DNA Recognition,3,Feedback
+563,Đoàn Tiến Quyết,DA,Apple,Nguyễn Mạnh Tiến,Quý 4,,Khác,Cảm ơn đã hỗ trợ tôi (2),Hỗ trợ cài đặt notebook,2,Feedback
+564,Phạm Duy Phương,DE,Apple,Trần Khánh Tùng,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Tùng đã hỗ trợ,3,Feedback
+565,Bùi Quang Đức,DA,Apple,Đỗ Hồng Hạnh,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+566,Bùi Quang Đức,DA,Apple,Nguyễn Anh Tuấn,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),,3,Feedback
+567,Nguyễn Anh Tuấn,DA,Apple,Lê Ngọc Anh,Quý 4,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),,3,Feedback
+568,Nguyễn Anh Tuấn,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+569,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp thử nghiệm ứng dụng nhanh PromptFlow cho LLM tools,5,Feedback
+570,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp thử nghiệm ứng dụng nhanh PromptFlow cho LLM tools,5,Feedback
+571,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp thử nghiệm ứng dụng nhanh PromptFlow cho LLM tools,5,Feedback
+572,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 4,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp triển khai đào tạo API (sử dụng),5,Feedback
+573,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,Quý 4,,OKR,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Cảm ơn anh Ngọc Anh vì các góp ý sản phẩm và định hướng OKR trong Q4 ạ ,3,Feedback
+574,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Cảm ơn anh Nhân vì những chia sẻ kinh nghiệm về sản phẩm khí ạ,,Feedback
+575,Trương Văn Nhân,DA,Samsung,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+576,Trương Văn Nhân,DA,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+577,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Cảm ơn anh Nhân ạ, nãy em gửi lỗi chưa chọn sao hic :(((",3,Feedback
+578,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),(Lại) Phối hợp triển khai chia sẻ sản phẩm Khí tại Hội thảo Tăng trưởng xanh,5,Feedback
+579,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),(Lại) Phối hợp triển khai chia sẻ sản phẩm Khí tại Hội thảo Tăng trưởng xanh,5,Feedback
+580,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+581,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+582,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+583,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp đánh giá xây dựng Custom Component (Designer) Azure ML,5,Feedback
+584,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+585,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đẩy mạnh thử nghiệm PromptFlow và PVA,5,Feedback
+586,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đẩy mạnh thử nghiệm PromptFlow và PVA,5,Feedback
+587,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đẩy mạnh thử nghiệm LLM tools và local embedding,5,Feedback
+588,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đẩy mạnh thử nghiệm PromptFlow và PVA,5,Feedback
+589,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,Quý 1,,,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),Em cảm ơn anh Ngọc Anh đã chia sẻ ạ :D ,3,Feedback
+590,Đào Hương Giang,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Em cảm ơn anh Ngọc Anh vì các góp ý cho sản phẩm số ạ ,3,Feedback
+591,Đỗ Hồng Hạnh,DA,Apple,Bùi Quang Đức,Quý 4,,OKR,Cảm ơn đã chia sẻ với tôi (3),10 điểm map!!!,3,Feedback
+592,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng sản phẩm số thử nghiệm với tính năng map mới trên PowerBI,5,Feedback
+593,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đào tạo nội bộ: sản phẩm số Fabric (BQ Đức),5,Feedback
+594,Bùi Quang Đức,DA,Apple,Đỗ Hồng Hạnh,Quý 4,,OKR,Cảm ơn đã hỗ trợ tôi (2),Em cảm ơn chị Hạnh đã giúp đỡ em siêu nhiệt tình!!,2,Feedback
+595,Bùi Quang Đức,DA,Apple,Lê Ngọc Anh,Quý 4,,OKR,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Em cảm ơn anh về những góp ý về sản phẩm ạ,3,Feedback
+596,Phạm Duy Phương,DE,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),Best CTO ever!,3,Feedback
+597,Phạm Duy Phương,DE,Apple,Đỗ Hồng Hạnh,Quý 4,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn đã hỗ trợ,3,Feedback
+598,Phạm Duy Phương,DE,Apple,Trần Khánh Tùng,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh đã quan tâm chia sẻ,3,Feedback
+599,Phạm Duy Phương,DE,Apple,Nguyễn Mạnh Tiến,Quý 4,O2,OKR,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn đã ngồi fix bug cùng,2,Feedback
+600,Trần Khánh Tùng,DE,Samsung,Nguyễn Anh Tuấn,Quý 4,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn hỗ trợ phần Qdrant local coding,3,Feedback
+601,Trần Khánh Tùng,DE,Samsung,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+602,Trần Khánh Tùng,DE,Samsung,Nhữ Anh Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+603,Trần Khánh Tùng,DE,Samsung,Lê Ngọc Anh,Quý 4,O1,OKR,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),thank you,3,Feedback
+604,Phạm Duy Phương,DE,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Cảm ơn anh đã luôn quan tâm đến toàn thể anh chị em bộ phận ạ,3,Feedback
+605,Bùi Quang Đức,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),,3,Feedback
+606,Nguyễn Mạnh Tiến,DA,Samsung,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),Cảm ơn anh đã tận tình giải thích những thắc mắc của em trong công việc,3,Feedback
+607,Đỗ Hồng Hạnh,DA,Apple,Bùi Quang Đức,Quý 1,,,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Đức chia sẻ kinh nghiệm làm map,3,Feedback
+608,Bùi Quang Đức,DA,Apple,Đỗ Hồng Hạnh,Quý 4,,,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn chị Hạnh đã hỗ trợ em sử dụng fabric,3,Feedback
+609,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Chủ động nắm bắt các công cụ đa dạng về maps để hỗ trợ các dự á với EPC, CPSE",5,Feedback
+610,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Thử nghiệm các công cụ để tạo chatbot hỗ trợ người dung sáng tạo sản phẩm số (PVA, GPTs)",5,Feedback
+611,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 4,O4,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Chủ động triển khai các công việc mảng năng lượng tái tạo (CCUS),5,Feedback
+612,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Chủ động thử nghiệm các công cụ để xây dựng, nâng cấp sản phẩm số (PromptFlow, PVA)",5,Feedback
+613,Lê Ngọc Anh,CTO,Samsung,Đoàn Tiến Quyết,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nỗ lực triển khai các sáng kiến số PVN (CSDL thị trường - dù đang sốt),5,Feedback
+614,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Chia sẻ kiến thức, tạo thương hiệu DNA rộng khắp (trong lĩnh vực y tế)",5,Feedback
+615,Đào Hương Giang,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Tiến đã hỗ trợ sửa lỗi trong Notebook,2,Feedback
+616,Đào Hương Giang,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Tiến đã chia sẻ về PVA,3,Feedback
+617,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hỗ trợ triển khai local LLM RAG cho PVNDB,5,Feedback
+618,Lê Ngọc Anh,CTO,Samsung,Trần Khánh Tùng,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đầu mối triển khai local LLM RAG cho PVNDB,5,Feedback
+619,Trần Khánh Tùng,DE,Samsung,Nguyễn Anh Tuấn,Quý 4,O1,OKR,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn đã nhiệt tình hỗ trợ phần LLM và QDrant Local,2,Feedback
+620,Trần Khánh Tùng,DE,Samsung,Lê Ngọc Anh,Quý 4,O1,OKR,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),"Cảm ơn Ngọc Anh hỗ trợ, tư vấn các nội dung liên quan đến Qdrant và LLM local",3,Feedback
+621,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Kiên trì hỗ trợ quảng bá sản phẩm số cho hội thảo LNG (lần 4),5,Feedback
+622,Trương Văn Nhân,DA,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+623,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+624,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,Quý 4,,,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Ngọc Anh vì phần chia sẻ tuyệt vời ạ,3,Feedback
+625,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 4,,,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Nhân vì sản phẩm LNG tuyệt vời ạ,3,Feedback
+626,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,,,Cảm ơn đã chia sẻ với tôi (3),谢谢,3,Feedback
+627,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+628,Trương Văn Nhân,DA,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+629,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp hoàn thiện các sản phẩm số quyết toán Q4,5,Feedback
+630,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hoàn thiện quy trình quản lý các sản phẩm số map,5,Feedback
+631,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hoàn thiện quy trình quản lý các sản phẩm số map,5,Feedback
+632,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),,2,Feedback
+633,Đỗ Hồng Hạnh,DA,Apple,Bùi Quang Đức,Quý 4,,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Đức Em đã cập nhật phần map cho LPG!,3,Feedback
+634,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Mạnh Tiến,Quý 4,,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Mạnh Tiến đã hỗ trợ xây dựng chatbot!,3,Feedback
+635,Đỗ Hồng Hạnh,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Duy Phương đã test giúp API!,3,Feedback
+636,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng Copilot demo full ver 1 trên DNA_demo,5,Feedback
+637,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng Copilot demo với Get Intent và Designer tool (ver 1),5,Feedback
+638,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Phối hợp xây dựng Copilot demo với Get Intent và Designer tool (ver 1),3,Feedback
+639,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đồng cảm đồng hành với các Đảng viên trong xây dựng PBI,5,Feedback
+640,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đồng cảm đồng hành với các Đảng viên trong xây dựng PBI,5,Feedback
+641,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp tài liệu bc Hội nghị tổng kết,5,Feedback
+642,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp tài liệu bc Hội nghị tổng kết,5,Feedback
+643,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp tài liệu bc Hội nghị tổng kết,5,Feedback
+644,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp tài liệu bc Hội nghị tổng kết,5,Feedback
+645,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 4,O4,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp tài liệu bc Hội nghị tổng kết,5,Feedback
+646,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp tài liệu bc Hội nghị tổng kết,5,Feedback
+647,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp tài liệu bc Hội nghị tổng kết,5,Feedback
+648,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổng hợp tài liệu bc Hội nghị tổng kết,5,Feedback
+649,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tham gia thư ký tổng hợp cho Hội nghị tổng kết VPI 2023,5,Feedback
+650,Trần Khánh Tùng,DE,Samsung,Nguyễn Anh Tuấn,Quý 4,O1,OKR,Cảm ơn đã hỗ trợ tôi (2),"Cảm ơn đã hỗ trợ coding liên quan đến Qdrant, LLm",2,Feedback
+651,Trần Khánh Tùng,DE,Samsung,Lê Ngọc Anh,Quý 4,O1,OKR,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),"Cảm ơn đã hỗ trợ, tư vấn trong triển khai công việc",3,Feedback
+652,Trần Khánh Tùng,DE,Samsung,Nhữ Anh Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn đã chia sẻ trong cuộc sống và công việc,3,Feedback
+653,Trần Khánh Tùng,DE,Samsung,Vũ Tuyết Vy,Quý 4,O1,OKR,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn đã hỗ trợ trong công việc phần OCR,2,Feedback
+654,Trần Khánh Tùng,DE,Samsung,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn hỗ trợ tôi giải đáp thắc mắc trong công việc,2,Feedback
+655,Trần Khánh Tùng,DE,Samsung,Phạm Duy Phương,Quý 4,O1,Khác,Cảm ơn đã chia sẻ với tôi (3),Tại cơ quan làm việc với Phương rất tuyệt vời,3,Feedback
+656,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hăng hái tham gia tổ chức đào tạo API và Power Automate,5,Feedback
+657,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hăng hái tham gia tổ chức đào tạo API và Power Automate,5,Feedback
+658,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hăng hái tham gia tổ chức đào tạo API và Power Automate,5,Feedback
+659,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 4,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Rà soát hoàn thiện các công cụ map & hỗ trợ,5,Feedback
+660,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tích cực tham gia quảng bá tại Ngày hội kết nối kinh doanh IEIT,5,Feedback
+661,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 4,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tích cực tham gia quảng bá tại Ngày hội kết nối kinh doanh IEIT,5,Feedback
+662,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+663,Nguyễn Anh Tuấn,DA,Apple,Nhữ Anh Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+664,Nguyễn Anh Tuấn,DA,Apple,Bùi Quang Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+665,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+666,Nguyễn Anh Tuấn,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+667,Nguyễn Anh Tuấn,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),,3,Feedback
+668,Vũ Tuyết Vy,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Sơn hỗ trợ rất nhiều phần training,3,Feedback
+669,Vũ Tuyết Vy,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Sơn vì hỗ trợ well log hết mức,3,Feedback
+670,Vũ Tuyết Vy,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Cảm ơn anh đã guide e trong công việc cũng như việc học hành đầy chông gai,3,Feedback
+671,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Excellent effort preparing for IEIT webinar,5,Feedback
+672,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Excellent effort preparing for IEIT webinar,5,Feedback
+673,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhiệt tình phối hợp xây dựng thành công prototype v1 cho J4U,5,Feedback
+674,Lê Ngọc Anh,CTO,Samsung,Trần Khánh Tùng,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Triển khai cập nhật phần mềm, công cụ offline LLM cho PVNDB",5,Feedback
+675,Nguyễn Trung Sơn,DA,Apple,Nguyễn Anh Tuấn,Quý 1,O1,OKR,Cảm ơn đã hỗ trợ tôi (2),Đồng hành chung trong việc tạo sản phẩm Prototype cho công ty khởi nguồn ,2,Feedback
+676,Nguyễn Trung Sơn,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Vy vì đã đồng hành chung trong việc tạo sản phẩm số của Viện trong năm 2023,3,Feedback
+677,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Vượt qua bệnh dịch, xây dựng dữ liệu và Page sản phẩm J4U v1",5,Feedback
+678,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Vượt qua bệnh dịch, xây dựng chatbot sản phẩm J4U v1",5,Feedback
+679,Đỗ Hồng Hạnh,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn chị Vy đã định hướng em phần Power Automate ạ,3,Feedback
+680,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Sơn đã chia sẻ kinh nghiệm làm flow ạ ,3,Feedback
+681,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nỗ lực thiết kế debug J4U chatbot v2,5,Feedback
+682,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,O3,OKR,Cảm ơn đã chia sẻ với tôi (3),Nỗ lực thiết kế debug J4U chatbot v2,3,Feedback
+683,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Kiên trì khởi nghiệp: đóng gói component Topic,5,Feedback
+684,Đào Hương Giang,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Mạnh Tiến đã hỗ trợ lấy dữ liệu cho CSDL KTVM ạ,2,Feedback
+685,Đào Hương Giang,DA,Apple,Bùi Quang Đức,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Đức Em đã hỗ trợ bổ sung bản đồ sản phẩm CCUS ạ,2,Feedback
+686,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Có tiến bộ lớn trong quản trị công việc (J4U),5,Feedback
+687,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Phối hợp hoàn thành macro dashboard v1 gửi PVN,3,Feedback
+688,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhiệt tình sáng tạo trang trí Tết công đoàn,5,Feedback
+689,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhiệt tình sáng tạo trang trí Tết công đoàn,5,Feedback
+690,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhiệt tình phối hợp triển khai công tác công đoàn Xuân 2024,5,Feedback
+691,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhiệt tình phối hợp triển khai công tác công đoàn Xuân 2024,5,Feedback
+692,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhiệt tình phối hợp triển khai công tác công đoàn Xuân 2024,5,Feedback
+693,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhiệt tình phối hợp triển khai công tác công đoàn Xuân 2024,5,Feedback
+694,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhiệt tình phối hợp triển khai công tác công đoàn Xuân 2024,5,Feedback
+695,Lê Ngọc Anh,CTO,Samsung,Trần Khánh Tùng,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Quyết liệt triển  khai công tác 5S tại công sở :),5,Feedback
+696,Phạm Duy Phương,DE,Apple,Trần Khánh Tùng,Quý 1,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh đã hỗ trợ em tìm hiểu về hệ thống quản trị Microsoft,3,Feedback
+697,Phạm Duy Phương,DE,Apple,Nhữ Anh Đức,Quý 1,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh đã hỗ trợ em tìm hiểu về hệ thống quản trị Microsoft,3,Feedback
+698,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hướng dẫn giới thiệu không gian Tết công đoàn chuyên môn,5,Feedback
+699,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hướng dẫn giới thiệu không gian Tết công đoàn chuyên môn,5,Feedback
+700,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+701,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+702,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+703,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+704,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+705,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+706,Lê Ngọc Anh,CTO,Samsung,Trần Khánh Tùng,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+707,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+708,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp tổ chức hội thảo triển lãm How to work with AI,5,Feedback
+709,Phạm Duy Phương,DE,Apple,Nguyễn Trung Sơn,Quý 1,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),Cám ơn anh đã hỗ trợ em làm PowerApps,3,Feedback
+710,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hỗ trợ đào tạo thực hành BC tự động với AI Chi bộ nghiệp vụ,5,Feedback
+711,Đào Hương Giang,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,,OKR,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Mạnh Tiến đã hỗ trợ xây dựng Chatbot KTVM,2,Feedback
+712,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tích cực thử nghiệm phản hồi công cụ tạo bot Coze.com,5,Feedback
+713,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tích cực thử nghiệm phản hồi công cụ tạo bot Coze.com,5,Feedback
+714,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tích cực thử nghiệm phản hồi công cụ tạo bot Coze.com,5,Feedback
+715,Lê Ngọc Anh,CTO,Samsung,Nguyễn Mạnh Tiến,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hướng dẫn chia sẻ công cụ J4U trên Copilot cho working team,5,Feedback
+716,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Nhanh chóng nắm bắt công cụ J4U trên Copilot Studio ,5,Feedback
+717,Bùi Quang Đức,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,O1,OKR,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+718,Đỗ Hồng Hạnh,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Mạnh Tiến rất nhèo,3,Feedback
+719,Vũ Tuyết Vy,DA,Apple,Phạm Duy Phương,Quý 1,O3,Khác,Cảm ơn đã chia sẻ với tôi (3),Test SSO,3,Feedback
+720,Bùi Quang Đức,DA,Apple,Nguyễn Mạnh Tiến,Quý 1,,OKR,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn đã chia sẻ kiến thức chatbot,3,Feedback
+721,Phạm Duy Phương,DE,Apple,Nguyễn Mạnh Tiến,Quý 1,O1,,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+722,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,,,,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Linh hoạt triển khai các công tác hạ tầng kỹ thuật! Power platform is great!!,5,Feedback
+723,Đào Hương Giang,DA,Apple,Bùi Quang Đức,,,,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn Đức Em vì đã hỗ trợ tôi,2,Feedback
+724,Nguyễn Mạnh Tiến,DA,Samsung,Đỗ Hồng Hạnh,,,,Cảm ơn đã chia sẻ với tôi (3),về cách thức thanh toán,3,Feedback
+725,Phạm Duy Phương,DE,Apple,Đỗ Hồng Hạnh,Quý 1,,,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn vì đã report apps,3,Feedback
+726,Phạm Duy Phương,DE,Apple,Trần Khánh Tùng,Quý 1,,,Cảm ơn đã chia sẻ với tôi (3),Em cám ơn anh Tùng đã hướng dẫn Local LLMs ạ,3,Feedback
+727,Đỗ Hồng Hạnh,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Duy Phương đã sửa lại tool recognition,3,Feedback
+728,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Đi làm hợp giờ!,3,Feedback
+729,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Cập nhật, chỉnh sửa nhanh cho bản đồ SAF",5,Feedback
+730,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hướng dẫn triển khai chatbot Copilot cho Bộ phận Nghiệp vụ,5,Feedback
+731,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Hướng dẫn (lẫn nữa) báo cáo tự động cho Bp nghiệp vụ,5,Feedback
+732,Bùi Quang Đức,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Duy Phương đã chia sẻ kiến thức về API,3,Feedback
+733,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Nhân đã hướng dẫn góp ý em cho hội nghị LPG ạ ,3,Feedback
+734,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Em cảm ơn anh Ngọc Anh đã góp ý cho em và cung cấp thêm các tài liệu về LPG ạ ,3,Feedback
+735,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh đã chia sẻ thông tin ạ. ,3,Feedback
+736,Trương Văn Nhân,DA,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Phối hợp hỗ trợ LPG :),2,Feedback
+737,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Thử nghiệm báo cáo kết quả nhanh với Copilot Studio solutions (áp dụng cho nhiều môi trường!!),5,Feedback
+738,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),Em cảm ơn anh Ngọc Anh đã hướng dẫn cho hội nghị LPG ạ ,3,Feedback
+739,Đỗ Hồng Hạnh,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),,3,Feedback
+740,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Nhân đã hỗ trợ em trong sản phẩm LPG ạ,3,Feedback
+741,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+742,Đỗ Hồng Hạnh,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn chị Vy đã giúp em fix lỗi lakehouse và chatbot ạ,3,Feedback
+743,Đỗ Hồng Hạnh,DA,Apple,Bùi Quang Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Quang Đức đã hỗ trợ chatbot cho LPG nhé,3,Feedback
+744,Đỗ Hồng Hạnh,DA,Apple,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Giang đã chia sẻ làm báo cáo tự động nha,3,Feedback
+745,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Nắm bắt nhanh công cụ bc tự động với Bảng, hướng dẫn Bp Nghiệp vụ",5,Feedback
+746,Lê Ngọc Anh,CTO,Samsung,Trần Khánh Tùng,Quý 1,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Tìm hiểu xây dựng nhanh prototype Dify và Weaviate local endpoint,5,Feedback
+747,Vũ Tuyết Vy,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Test thần tốc khả năng nhúng PBI visual vào báo cáo tự động,3,Feedback
+748,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),,3,Feedback
+749,Vũ Tuyết Vy,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thử nghiệm sản phẩm chatbot thay đổi báo cáo PBI,3,Feedback
+750,Lê Ngọc Anh,CTO,Samsung,Vũ Tuyết Vy,Quý 1,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp triển khai công cụ Chatbot thay đổi PBI visual,5,Feedback
+751,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Đầu mối triển khai công cụ Chatbot thay đổi PBI visual,5,Feedback
+752,Vũ Tuyết Vy,DA,Apple,Nhữ Anh Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Đức đã hỗ trợ em deploy lại API datasharing,3,Feedback
+753,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Great effort building first demo for DOE product AI Works,5,Feedback
+754,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Great effort building first demo for DOE product AI Works,5,Feedback
+755,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Vượt qua khó khăn (sức khỏe) để triển khai các công việc,5,Feedback
+756,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Vượt qua khó khăn (sức khỏe) để triển khai các công việc,5,Feedback
+757,Bùi Quang Đức,DA,Apple,Phạm Duy Phương,Quý 1,,,Cảm ơn đã chia sẻ với tôi (3),cảm ơn Duy Phương đã chia sẻ kiến thức,3,Feedback
+758,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Hỗ trợ chương trình đào tạo AI tuyệt vời,3,Feedback
+759,Vũ Tuyết Vy,DA,Apple,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Hỗ trợ nhiệt tình chatbot demo,3,Feedback
+760,Bùi Quang Đức,DA,Apple,Đỗ Hồng Hạnh,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn chị Hạnh đã chia sẻ thêm kinh nghiệm về power automate,3,Feedback
+761,Bùi Quang Đức,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Duy Phương đã hỗ trợ thêm kiến thức,3,Feedback
+762,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp xây dựng sản phẩm demo đào tạo HLJOC,5,Feedback
+763,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Game master!!,5,Feedback
+764,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp test & xây dựng game đào tạo HLJOC,5,Feedback
+765,Lê Ngọc Anh,CTO,Samsung,Trần Khánh Tùng,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị hệ thống chatbot local đào tạo HLJOC,5,Feedback
+766,Lê Ngọc Anh,CTO,Samsung,Nhữ Anh Đức,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị nguồn lực tốt đào tạo HLJOC,5,Feedback
+767,Nguyễn Anh Tuấn,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3), Thank anh NA đã lead chương trình đào tạo hiệu quả ngày 1,3,Feedback
+768,Nguyễn Anh Tuấn,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3), Thank anh NA đã lead chương trình đào tạo hiệu quả ngày 2,3,Feedback
+769,Nguyễn Anh Tuấn,DA,Apple,Trần Khánh Tùng,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank a Tùng hỗ trợ đào tại HLHV,3,Feedback
+770,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank a Sơn hỗ trợ đào tạo hiệu quả,3,Feedback
+771,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Thanh Sang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank a Sang hỗ trợ đào tạo hiệu quả,3,Feedback
+772,Nguyễn Anh Tuấn,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank Nhân hỗ trợ đào tạo hiệu quả,3,Feedback
+773,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank Vy hỗ trợ a đào tạo ngày 1,3,Feedback
+774,Nguyễn Anh Tuấn,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank Vy hỗ trợ a đào tạo ngày 2,3,Feedback
+775,Nguyễn Anh Tuấn,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank Phương hỗ trợ a trong chương trình đào tạo,3,Feedback
+776,Nguyễn Anh Tuấn,DA,Apple,Bùi Quang Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank Đức hỗ trợ a trong chương trình đào tạo,3,Feedback
+777,Nguyễn Anh Tuấn,DA,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Thank a Sơn chuẩn bị report Well-log, VSP",3,Feedback
+778,Nguyễn Anh Tuấn,DA,Apple,Nhữ Anh Đức,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thank a Nhữ Đức hỗ trợ tài khoản OpenAI (API) kịp thời,3,Feedback
+779,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Hỗ trợ training ứng dụng AI hoàn thành nhiệm vụ,2,Feedback
+780,Trương Văn Nhân,DA,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn anh Tuấn hỗ trợ training AI hoàn thành tốt,2,Feedback
+781,Trương Văn Nhân,DA,Samsung,Lê Ngọc Anh,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Cảm ơn anh đã hỗ trợ trong 2 ngày training ạ. ,2,Feedback
+782,Trương Văn Nhân,DA,Samsung,Nguyễn Thanh Sang,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Tks anh phối hợp tốt training AI :),2,Feedback
+783,Nguyễn Trung Sơn,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là nhà quản lý biết lắng nghe (3),"Em cảm ơn Anh Ngọc đã phối hợp, giúp đỡ em trong quá trình chuẩn bị thực hành ngày thứ 2",3,Feedback
+784,Nguyễn Trung Sơn,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Vy đã hỗ trợ Anh trong quá trình chuẩn bị cho đào tạo,3,Feedback
+785,Nguyễn Trung Sơn,DA,Apple,Nguyễn Thanh Sang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Anh Sang đã hỗ trợ em trong quá trình chuẩn bị App Deepnote,3,Feedback
+786,Nguyễn Trung Sơn,DA,Apple,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Em đã phối hợp chia sẻ các app PowerBI,3,Feedback
+787,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Nhân đã chia sẻ kinh nghiệm với chatbot PBI ạ ,3,Feedback
+788,Đỗ Hồng Hạnh,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Nhân đã hướng dẫn em chatbot với PBI ạ,3,Feedback
+789,Vũ Tuyết Vy,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Phối hợp demo Vietpoint,3,Feedback
+790,Vũ Tuyết Vy,DA,Apple,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Phối hợp demo VietPoint,3,Feedback
+791,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 1,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Superd performance at Vietpoint in last minute!!,5,Feedback
+792,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Bạn làm việc tốt (3),Đi làm đúng giờ 5 tuần liên tiếp!!,3,Feedback
+793,Bùi Quang Đức,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),em cảm ơn anh Nhân đã hỗ trợ và nhận xét cho phần map Offshore wind,3,Feedback
+794,Phạm Duy Phương,DE,Apple,Nhữ Anh Đức,Quý 2,,OKR,Cảm ơn đã hỗ trợ tôi (2),Cám ơn anh đã thiết lập SSL cho website AI Works ạ,2,Feedback
+795,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp xây dựng DOE app chia sẻ demo cho PVU (AI Works 1st work!),5,Feedback
+796,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),(Hy sinh nhận thức chính trị) Phối hợp triển khai demo AI cho PVU (AI Works 1st work),5,Feedback
+797,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp rà soát hoàn thiện dashboard offshorewind bc LĐ PVN,5,Feedback
+798,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Rà soát hoàn thiện dashboard offshorewind bc LĐ PVN,5,Feedback
+799,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp triển khai chương trình Career day tại VinUni quảng bá cho VPI,5,Feedback
+800,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp triển khai chương trình Career day tại VinUni quảng bá cho VPI,5,Feedback
+801,Phạm Duy Phương,DE,Apple,Nguyễn Trung Sơn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Sơn đã tham gia ngày hội hướng nghiệp VinUni với vai trò chuyên gia VIPPROMAX,3,Feedback
+802,Phạm Duy Phương,DE,Apple,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn anh Tuấn đã tham gia ngày hội hướng nghiệp VinUni với vai trò chuyên gia VIPPROMAX,3,Feedback
+803,Phạm Duy Phương,DE,Apple,Đào Hương Giang,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn đã cùng hỗ trợ đầu mối hướng nghiệp VinUni,3,Feedback
+804,Phạm Duy Phương,DE,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Thanks chị Vy đã hỗ trợ và lo bữa ăn trưa cho ACE ạ,3,Feedback
+805,Phạm Duy Phương,DE,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),"Cám ơn anh đã tạo điều kiện cho em tham gia trải nghiệm VinUni ạ, cốc Twitter Beans vẫn đang chờ anh order ạ :)",3,Feedback
+806,Nguyễn Trung Sơn,DA,Apple,Phạm Duy Phương,Quý 2,O5,OKR,Cảm ơn đã chia sẻ với tôi (3),"Hỗ trợ, cộng tác hiệu quả trong quá trình xây dựng App Lite DoE",3,Feedback
+807,Bùi Quang Đức,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),"Em cảm ơn anh Nhân đã hỗ trợ, hướng dẫn hoàn thiện dashboard offshorewind  ",3,Feedback
+808,Trương Văn Nhân,DA,Samsung,Nguyễn Anh Tuấn,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Hỗ trợ đạo tạo AI PVU,2,Feedback
+809,Trương Văn Nhân,DA,Samsung,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Hỗ trợ đạo tạo AI PVU,2,Feedback
+810,Bùi Quang Đức,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),"Em cảm ơn anh Ngọc Anh đã có những góp ý, đánh giá và hỗ trợ em để hoàn thiện dashboard offshorewind tốt hơn",3,Feedback
+811,Đào Hương Giang,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn chị Vy đã hướng dẫn demo ứng dụng AI tại Vietpoint ạ ,3,Feedback
+812,Đào Hương Giang,DA,Apple,Đoàn Tiến Quyết,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Quyết đã hỗ trợ thực hiện bản tin gửi PVN ạ,3,Feedback
+813,Đào Hương Giang,DA,Apple,Trương Văn Nhân,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn anh Nhân đã chia sẻ về flow nhúng PBI vào báo cáo tự động ạ ,3,Feedback
+814,Đào Hương Giang,DA,Apple,Phạm Duy Phương,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Cảm ơn Duy Phương đã phối hợp triển khai VPI Booth ở VinUni ,3,Feedback
+815,Trương Văn Nhân,DA,Samsung,Bùi Quang Đức,Quý 1,,Khác,Cảm ơn đã hỗ trợ tôi (2),Phối hợp xây dựng offshore wind power :),2,Feedback
+816,Đào Hương Giang,DA,Apple,Vũ Tuyết Vy,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn chị Vy đã góp ý sản phẩm demo PVU ạ,3,Feedback
+817,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Thử nghiệm và hướng dẫn nhanh ML use case cho dữ liệu core (Lam & Phong),5,Feedback
+818,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp xử lý nhanh bài toán chuyển đổi dữ liệu PAC ,5,Feedback
+819,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Trách nhiệm với báo giá đầu tiên của AI Works,5,Feedback
+820,Nguyễn Trung Sơn,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,Cảm ơn đã chia sẻ với tôi (3),Em cảm ơn Anh đã chia sẻ bài trình bày về tổng quan AI rất hay để trình bày với Chi bộ và Công đoàn,3,Feedback
+821,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),"Ye dude be talkin' proper English, ain't ye?",5,Feedback
+822,Vũ Tuyết Vy,DA,Apple,Lê Ngọc Anh,Quý 1,,Khác,(Nhân viên đánh giá quản lý) Bạn là người cố vấn tuyệt vời (3),you're amazing,3,Feedback
+823,Lê Ngọc Anh,CTO,Samsung,Nguyễn Trung Sơn,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị slide bc PVN về CL AI,5,Feedback
+824,Lê Ngọc Anh,CTO,Samsung,Nguyễn Thanh Sang,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị slide bc PVN về CL AI,5,Feedback
+825,Lê Ngọc Anh,CTO,Samsung,Nguyễn Anh Tuấn,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị slide bc PVN về CL AI,5,Feedback
+826,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Phối hợp chuẩn bị slide bc PVN về CL AI,5,Feedback
+827,Lê Ngọc Anh,CTO,Samsung,Phạm Duy Phương,Quý 1,,Khác,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Good IELTS attempt,5,Feedback
+828,Lê Ngọc Anh,CTO,Samsung,Đỗ Hồng Hạnh,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Chuẩn bị rất tốt cho demo Vietpoint,5,Feedback
+829,Lê Ngọc Anh,CTO,Samsung,Đào Hương Giang,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Chuẩn bị rất tốt cho demo Vietpoint,5,Feedback
+830,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 2,O3,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Chuẩn bị rất tốt cho demo Vietpoint,5,Feedback
+831,Lê Ngọc Anh,CTO,Samsung,Bùi Quang Đức,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng bộ dữ liệu demo cho VPI Insight backend prototype,5,Feedback
+832,Lê Ngọc Anh,CTO,Samsung,Trương Văn Nhân,Quý 2,O2,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Xây dựng bộ dữ liệu demo cho VPI Insight backend prototype,5,Feedback
+833,Lê Ngọc Anh,CTO,Samsung,Trần Khánh Tùng,Quý 2,O1,OKR,(Quản lý đánh giá nhân viên) Tôi hài lòng với công việc của bạn (5),Chuẩn bị tốt cho hệ thống local LLM (Command R) bc demo PVN,5,Feedback
